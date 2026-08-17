@@ -1,13 +1,19 @@
 # 🇨🇿 4. 프라하 (9/11 ~ 9/14, 3박)
 
-**숙소**: 안다즈 프라하 (Andaz Prague)
-**숙소 특징**: '진흙의 탑(Mud Tower)' 근처 신시가지 중심에 위치한 최고급 호텔로, 구시가지와 기차역 모두 접근성이 뛰어남. 로맨틱한 중세 도시의 정점을 느낄 수 있음.
-
-<br>
-<a href="https://www.google.com/maps/search/?api=1&query=Andaz+Prague" target="_blank">
-  <img src="./prague_map.png" width="600" height="450" alt="구글 맵 위치 보기 (클릭하면 이동합니다)">
-</a>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 안다즈 프라하</h3>
+      <p><b>Andaz Prague</b></p>
+      <p>✨ <b>특징:</b> '진흙의 탑(Mud Tower)' 근처 신시가지 중심에 위치한 최고급 호텔로, 구시가지와 기차역 모두 접근성이 뛰어남. 로맨틱한 중세 도시의 정점을 느낄 수 있음.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.google.com/maps/search/?api=1&query=Andaz+Prague" target="_blank">
+        <img src="./prague_map.png" width="100%" alt="구글 맵 위치 보기">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🗓️ 일정 계획
 

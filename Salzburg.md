@@ -1,13 +1,19 @@
 # 🇦🇹 3. 잘츠부르크 (9/9 ~ 9/11, 2박)
 
-**숙소**: 빌라 베르데 (Villa Verde)
-**숙소 특징**: 모차르트와 사운드 오브 뮤직의 도시. 구시가지에서 약간 떨어진 조용하고 아늑한 정원이 있는 감성 B&B로, 휴식과 힐링에 제격.
-
-<br>
-<a href="https://www.google.com/maps/search/?api=1&query=Villa+Verde+Salzburg" target="_blank">
-  <img src="./salzburg_map.png" width="600" height="450" alt="구글 맵 위치 보기 (클릭하면 이동합니다)">
-</a>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 빌라 베르데</h3>
+      <p><b>Villa Verde</b></p>
+      <p>✨ <b>특징:</b> 모차르트와 사운드 오브 뮤직의 도시. 구시가지에서 약간 떨어진 조용하고 아늑한 정원이 있는 감성 B&B로, 휴식과 힐링에 제격.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.google.com/maps/search/?api=1&query=Villa+Verde+Salzburg" target="_blank">
+        <img src="./salzburg_map.png" width="100%" alt="구글 맵 위치 보기">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🗓️ 일정 계획
 

@@ -1,13 +1,19 @@
 # 🇦🇹 2. 비엔나 (9/6 ~ 9/9, 3박)
 
-**숙소**: 파크 하얏트 비엔나 (Park Hyatt Vienna)
-**숙소 특징**: 비엔나의 심장부인 '암 호프(Am Hof)' 광장에 위치해 슈테판 대성당, 명품 거리(콜마르크트) 등을 모두 도보로 이동할 수 있는 최고의 요지.
-
-<br>
-<a href="https://www.google.com/maps/search/?api=1&query=Park+Hyatt+Vienna" target="_blank">
-  <img src="./vienna_map.png" width="600" height="450" alt="구글 맵 위치 보기 (클릭하면 이동합니다)">
-</a>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 파크 하얏트 비엔나</h3>
+      <p><b>Park Hyatt Vienna</b></p>
+      <p>✨ <b>특징:</b> 비엔나의 심장부인 '암 호프(Am Hof)' 광장에 위치해 슈테판 대성당, 명품 거리(콜마르크트) 등을 모두 도보로 이동할 수 있는 최고의 요지.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.google.com/maps/search/?api=1&query=Park+Hyatt+Vienna" target="_blank">
+        <img src="./vienna_map.png" width="100%" alt="구글 맵 위치 보기">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🗓️ 일정 계획
 

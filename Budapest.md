@@ -1,13 +1,19 @@
 # 🇭🇺 1. 부다페스트 (9/3 ~ 9/6, 3박)
 
-**숙소**: 파리시 우드버르 호텔 부다페스트 (Párisi Udvar Hotel)
-**숙소 특징**: 부다페스트 중심가인 페스트 지구에 위치하며, 호텔 자체 아케이드가 예술품 수준. 야경과 온천에 집중하기 좋은 일정.
-
-<br>
-<a href="https://www.google.com/maps/search/?api=1&query=Párisi+Udvar+Hotel+Budapest" target="_blank">
-  <img src="./budapest_map.png" width="600" height="450" alt="구글 맵 위치 보기 (클릭하면 이동합니다)">
-</a>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 파리시 우드버르 호텔</h3>
+      <p><b>Párisi Udvar Hotel Budapest</b></p>
+      <p>✨ <b>특징:</b> 부다페스트 중심가인 페스트 지구에 위치하며, 호텔 자체 아케이드가 예술품 수준. 야경과 온천에 집중하기 좋은 일정.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.google.com/maps/search/?api=1&query=Párisi+Udvar+Hotel+Budapest" target="_blank">
+        <img src="./budapest_map.png" width="100%" alt="구글 맵 위치 보기">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🗓️ 일정 계획
 
