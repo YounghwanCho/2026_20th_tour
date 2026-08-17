@@ -3,6 +3,8 @@
 **숙소**: 파리시 우드버르 호텔 부다페스트 (Párisi Udvar Hotel)
 **숙소 특징**: 부다페스트 중심가인 페스트 지구에 위치하며, 호텔 자체 아케이드가 예술품 수준. 야경과 온천에 집중하기 좋은 일정.
 
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Párisi%20Udvar%20Hotel%20Budapest&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
+
 ## 🗓️ 일정 계획
 
 * **9/3 (목) 입국 및 야경**: 부다페스트 공항 도착 후 숙소 체크인. 호텔 내부 아름다운 카페(Párisi Passage)에서 가벼운 웰컴 드링크. 밤에 도보로 세체니 다리를 건너며 부다페스트의 세계적인 야경 감상.
