@@ -17,9 +17,23 @@
 
 ## 🗓️ 일정 계획
 
-* **9/3 (목) 입국 및 야경**: 부다페스트 공항 도착 후 숙소 체크인. 호텔 내부 아름다운 카페(Párisi Passage)에서 가벼운 웰컴 드링크. 밤에 도보로 세체니 다리를 건너며 부다페스트의 세계적인 야경 감상.
-* **9/4 (금) 부다 지구 집중 투어**: 오전 일찍 어부의 요새와 마차시 성당으로 이동 (오전이 비교적 한산하며 사진이 잘 나옴). 오후에는 부다 성을 둘러보고, 해 질 무렵 페스트 지구로 돌아와 국회의사당 맞은편(Batthyány tér)에서 불이 켜지는 국회의사당 장관 감상.
-* **9/5 (토) 온천과 페스트 지구**: 아침 일찍 세체니 온천 혹은 루다스 온천에서 여독 풀기. 오후에는 성 이슈트반 대성당을 관람하고 주변의 안드라시 거리를 산책. 저녁에는 부다페스트 특유의 문화인 '루인 바(Ruin Bar, 폐허 바)'인 Szimpla Kert에서 이색적인 밤 즐기기.
+### 📍 9/3 (목) 입국 및 야경
+부다페스트 공항 도착 후 숙소 체크인. 호텔 내부 아름다운 카페(Párisi Passage)에서 가벼운 웰컴 드링크. 밤에 도보로 세체니 다리를 건너며 부다페스트의 세계적인 야경 감상.
+* **주요 방문지**: **세체니 다리**
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg/330px-Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg" height="120" style="border-radius:8px;">
+
+### 📍 9/4 (금) 부다 지구 집중 투어
+오전 일찍 어부의 요새와 마차시 성당으로 이동 (오전이 비교적 한산하며 사진이 잘 나옴). 오후에는 부다 성을 둘러보고, 해 질 무렵 페스트 지구로 돌아와 국회의사당 맞은편(Batthyány tér)에서 불이 켜지는 국회의사당 장관 감상.
+* **주요 방문지**: **어부의 요새**, **국회의사당**
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg/330px-Hal%C3%A1szb%C3%A1stya_2017.jpg" height="120" style="border-radius:8px; margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg/330px-Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg" height="120" style="border-radius:8px;">
+
+### 📍 9/5 (토) 온천과 페스트 지구
+아침 일찍 세체니 온천 혹은 루다스 온천에서 여독 풀기. 오후에는 성 이슈트반 대성당을 관람하고 주변의 안드라시 거리를 산책. 저녁에는 부다페스트 특유의 문화인 '루인 바(Ruin Bar, 폐허 바)'인 Szimpla Kert에서 이색적인 밤 즐기기.
+* **주요 방문지**: **세체니 온천**, **성 이슈트반 대성당**
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Szechenyi_Thermal_Baths.jpg/330px-Szechenyi_Thermal_Baths.jpg" height="120" style="border-radius:8px;">
 
 ## 🍽️ 추천 음식 & 식당
 

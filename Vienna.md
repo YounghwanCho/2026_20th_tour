@@ -17,9 +17,24 @@
 
 ## 🗓️ 일정 계획
 
-* **9/6 (일) 비엔나 도착 및 시내 산책**: 부다페스트에서 기차(ÖBB)로 비엔나 이동 (약 2시간 30분). 체크인 후 도보 거리에 있는 슈테판 대성당 구경, 비엔나의 중심가인 게른트너 거리와 그라벤 거리를 거닐며 유서 깊은 비엔나의 분위기 만끽.
-* **9/7 (월) 합스부르크 왕가의 발자취**: 오전에 합스부르크 왕가의 여름 궁전인 쇤브룬궁으로 이동하여 그랜드 투어(내부 관람)와 글로리에테 언덕 정원 산책. 오후에는 시내로 돌아와 호프부르크 왕궁과 세계적인 명화 '키스'가 있는 벨베데레 궁전 관람.
-* **9/8 (화) 예술과 음악의 날**: 미술사 박물관이나 알베르티나 미술관 관람. 저녁에는 비엔나 국립 오페라 극장(Opera House)에서 공연 관람, 혹은 무지크페어라인에서 클래식 콘서트 감상 추천.
+### 📍 9/6 (일) 비엔나 도착 및 시내 산책
+부다페스트에서 기차(ÖBB)로 비엔나 이동 (약 2시간 30분). 체크인 후 도보 거리에 있는 슈테판 대성당 구경, 비엔나의 중심가인 게른트너 거리와 그라벤 거리를 거닐며 유서 깊은 비엔나의 분위기 만끽.
+* **주요 방문지**: **슈테판 대성당**
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wien_-_Stephansdom_%281%29.JPG/330px-Wien_-_Stephansdom_%281%29.JPG" height="120" style="border-radius:8px;">
+
+### 📍 9/7 (월) 합스부르크 왕가의 발자취
+오전에 합스부르크 왕가의 여름 궁전인 쇤브룬궁으로 이동하여 그랜드 투어(내부 관람)와 글로리에테 언덕 정원 산책. 오후에는 시내로 돌아와 호프부르크 왕궁과 세계적인 명화 '키스'가 있는 벨베데레 궁전 관람.
+* **주요 방문지**: **쇤브룬궁**, **호프부르크 왕궁**, **벨베데레 궁전**
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG/330px-Wien_-_Schloss_Sch%C3%B6nbrunn.JPG" height="120" style="border-radius:8px; margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wien_-_Neue_Hofburg.JPG/330px-Wien_-_Neue_Hofburg.JPG" height="120" style="border-radius:8px; margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg/330px-Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg" height="120" style="border-radius:8px;">
+
+### 📍 9/8 (화) 예술과 음악의 날
+미술사 박물관이나 알베르티나 미술관 관람. 저녁에는 비엔나 국립 오페라 극장(Opera House)에서 공연 관람, 혹은 무지크페어라인에서 클래식 콘서트 감상 추천.
+* **주요 방문지**: **미술사 박물관**, **비엔나 국립 오페라 극장**
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kunsthistorisches_Museum_logo.svg/330px-Kunsthistorisches_Museum_logo.svg.png" height="120" style="border-radius:8px;">
 
 ## 🍽️ 추천 음식 & 식당
 
