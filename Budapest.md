@@ -3,7 +3,12 @@
 **숙소**: 파리시 우드버르 호텔 부다페스트 (Párisi Udvar Hotel)
 **숙소 특징**: 부다페스트 중심가인 페스트 지구에 위치하며, 호텔 자체 아케이드가 예술품 수준. 야경과 온천에 집중하기 좋은 일정.
 
-<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Párisi%20Udvar%20Hotel%20Budapest&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
+<br>
+<a href="https://www.google.com/maps/search/?api=1&query=Párisi+Udvar+Hotel+Budapest" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Maps_icon.svg/1200px-Google_Maps_icon.svg.png" width="80" alt="구글 맵에서 보기">
+  <br><b>📍 구글 맵에서 호텔 위치 보기 (클릭)</b>
+</a>
+<br>
 
 ## 🗓️ 일정 계획
 
