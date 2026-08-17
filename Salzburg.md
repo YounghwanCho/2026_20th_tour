@@ -9,7 +9,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://www.google.com/maps/search/?api=1&query=Villa+Verde+Salzburg" target="_blank">
-        <img src="./salzburg_map.png" width="100%" alt="구글 맵 위치 보기">
+        <img src="./assets/salzburg_map.png" width="100%" alt="구글 맵 위치 보기">
       </a>
     </td>
   </tr>
@@ -21,13 +21,13 @@
 비엔나에서 기차로 잘츠부르크 이동 (약 2시간 30분). 숙소에 짐을 풀고 구시가로 이동해 모차르트 생가와 게트라이데 거리 구경. 해질녘 잘츠자흐 강변을 걸으며 호엔잘츠부르크 성이 보이는 야경 감상.
 * **주요 방문지**: **모차르트 생가**, **호엔잘츠부르크 성**
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg/330px-Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg" height="120" style="border-radius:8px; margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Salzburg_-_Festung_Hohensalzburg.JPG/330px-Salzburg_-_Festung_Hohensalzburg.JPG" height="120" style="border-radius:8px;">
+  <img src="./assets/mozart_birthplace.jpg" height="120" style="border-radius:8px; margin-right:10px;">
+  <img src="./assets/hohensalzburg.jpg" height="120" style="border-radius:8px;">
 
 ### 📍 9/10 (목) 미라벨 정원과 호엔잘츠부르크 성
 영화 '사운드 오브 뮤직'의 배경인 미라벨궁과 정원 산책 후, 푸니쿨라를 타고 호엔잘츠부르크 성에 올라가 잘츠부르크 시내와 알프스 산맥이 어우러진 절경 감상. (시간이 허락한다면 근교의 아름다운 호수 마을인 '할슈타트(Hallstatt)'나 '장크트 길겐' 당일치기도 추천)
 * **주요 방문지**: **미라벨 정원**
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palatul_Mirabell1.jpg/330px-Palatul_Mirabell1.jpg" height="120" style="border-radius:8px;">
+  <br><img src="./assets/mirabell.jpg" height="120" style="border-radius:8px;">
 
 ### 📍 9/11 (금) 프라하로 이동 전 오전
 잘츠부르크 대성당 주변 광장을 가볍게 산책하고 프라하행 여정 준비.

@@ -9,7 +9,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://www.google.com/maps/search/?api=1&query=Andaz+Prague" target="_blank">
-        <img src="./prague_map.png" width="100%" alt="구글 맵 위치 보기">
+        <img src="./assets/prague_map.png" width="100%" alt="구글 맵 위치 보기">
       </a>
     </td>
   </tr>
@@ -20,14 +20,14 @@
 ### 📍 9/11 (금) 프라하 도착
 잘츠부르크에서 프라하로 이동 (기차 또는 체스키 크룸로프를 거치는 셔틀버스 이용 추천, 약 4~5시간 소요). 체크인 후 밤의 올드 타운 광장과 천문시계탑을 구경하며 프라하의 첫날밤 보내기.
 * **주요 방문지**: **천문시계탑**
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astronomical_Clock_%288341899828%29.jpg/330px-Astronomical_Clock_%288341899828%29.jpg" height="120" style="border-radius:8px;">
+  <br><img src="./assets/astronomical_clock.jpg" height="120" style="border-radius:8px;">
 
 ### 📍 9/12 (토) 프라하 성과 카를교
 오전 일찍 세계에서 가장 큰 성채 단지 중 하나인 프라하 성으로 향함. 성 비투스 대성당과 황금소로를 관람한 후, 네루도바 거리를 따라 내려옴. 오후와 일몰 무렵에는 프라하의 상징인 카를교를 걸으며 블타바 강과 프라하 성의 로맨틱한 풍경 감상.
 * **주요 방문지**: **프라하 성**, **카를교**
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/330px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg" height="120" style="border-radius:8px; margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg/330px-Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg" height="120" style="border-radius:8px;">
+  <img src="./assets/prague_castle.jpg" height="120" style="border-radius:8px; margin-right:10px;">
+  <img src="./assets/charles_bridge.jpg" height="120" style="border-radius:8px;">
 
 ### 📍 9/13 (일) 구시가 깊이 보기 및 재즈 바
 구시가지의 골목골목을 탐방하고 하벨 시장 구경. 시민회관이나 루돌피눔에서의 공연을 보거나, 저녁에는 프라하의 유명한 재즈 바(예: Reduta Jazz Club)에서 라이브 음악 즐기기.
