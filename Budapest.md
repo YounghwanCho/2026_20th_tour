@@ -5,8 +5,7 @@
 
 <br>
 <a href="https://www.google.com/maps/search/?api=1&query=Párisi+Udvar+Hotel+Budapest" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Maps_icon.svg/1200px-Google_Maps_icon.svg.png" width="80" alt="구글 맵에서 보기">
-  <br><b>📍 구글 맵에서 호텔 위치 보기 (클릭)</b>
+  <img src="./budapest_map.png" width="600" height="450" alt="구글 맵 위치 보기 (클릭하면 이동합니다)">
 </a>
 <br>
 
