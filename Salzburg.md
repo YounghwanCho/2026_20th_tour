@@ -21,12 +21,14 @@
 * **07:00 ~ 11:28**: 비엔나에서 조식 후 체크아웃 및 중앙역(Wien Hbf)으로 이동.
   * 🚇 **이동 방법 (파크 하얏트 비엔나 ➡️ 비엔나 중앙역)**:
     * 호텔에서 도보 5분 거리인 'Stephansplatz' 역에서 **U1(빨간색)** 탑승 ➡️ 'Südtiroler Platz-Hauptbahnhof(중앙역)' 하차 (약 15분 소요).
-    * <img src="./assets/vienna_hotel_to_hbf_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="파크 하얏트 비엔나에서 기차역 이동 경로 지도">
+    * <img src="./assets/vienna_hotel_to_hbf_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="파크 하얏트 비엔나에서 기차역 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hotel_to_hbf_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="파크 하얏트 비엔나에서 기차역 이동 경로 지도 AI생성본"></details>
 * **11:28 ~ 13:53**: 기차 탑승 및 잘츠부르크로 이동. (OBB RJX 19976 열차, 23호차, 좌석번호 41 & 43)
 * **13:53 ~ 15:00**: 잘츠부르크 도착 및 호텔(빌라 베르데) 체크인.
   * 🚌 **이동 방법 (잘츠부르크 중앙역 ➡️ 빌라 베르데 호텔)**:
     * 중앙역 앞 버스 터미널 정류장에서 **1번 버스** 탑승 ➡️ 약 15분 이동 후 'Moosstraße' 근처 정류장 하차 (도보 2분 거리).
-    * <img src="./assets/salzburg_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="잘츠부르크 중앙역에서 호텔 이동 경로 지도">
+    * <img src="./assets/salzburg_hbf_to_hotel_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="잘츠부르크 중앙역에서 호텔 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/salzburg_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="잘츠부르크 중앙역에서 호텔 이동 경로 지도 AI생성본"></details>
 * **15:00 ~ 18:00**: 버스를 타고 구시가지(알트슈타트)로 이동. 예쁜 철제 간판이 늘어선 **게트라이데 거리**를 산책하고 **모차르트 생가** 관람.
   * 🚌 **이동 방법 (호텔 ➡️ 구시가지)**:
     * 숙소 근처 정류장에서 **1번 버스** 탑승 ➡️ 시내 중심부 'Hanuschplatz(하누쉬플라츠)' 하차 후 도보 3분 (약 10분 소요).

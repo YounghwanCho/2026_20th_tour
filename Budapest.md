@@ -23,9 +23,10 @@
     * **타는 곳**: 제2터미널(T2A와 T2B 사이) 입국장 앞 100E 버스 정류장
     * **티켓 구매**: 정류장 앞 보라색 BKK 발권기 또는 'BudapestGO' 앱에서 탑승권(Airport shuttle bus single ticket) 구매 (2200 HUF)
     * **경로**: 공항 출발 ➡️ **Kálvin tér(칼빈 광장)** 또는 **Astoria** 하차 (호텔까지 도보 5분 거리)
-    * <img src="./assets/budapest_100e_bus_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도">
+    * <img src="./assets/budapest_100e_bus_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_100e_bus_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 AI생성본"></details>
 * **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사. (호텔 근처 바치 거리(Váci utca) 번화가에서 간단하게 식사)
-* **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><img src="./assets/budapest_day1_night_walk_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 지도"><br><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><img src="./assets/budapest_day1_night_walk_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 구글맵 캡처"><br><details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_day1_night_walk_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 지도 AI생성본"></details><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 비행 탑승으로 피곤할 수 있으니 첫날 야경 일정은 컨디션에 따라 가볍게 둘러보는 것을 추천합니다. 호텔 1층 '파리시 파사쥬(Párisi Passage)' 카페의 화려한 건축미도 체크인 시 놓치지 마세요.
 
 ### 📍 9/4 (금) 부다 지구 집중 투어
@@ -33,7 +34,8 @@
 * **09:00 ~ 12:00**: 부다 지구 언덕으로 이동하여 **어부의 요새**와 **마차시 성당** 관람. (오전 9시쯤 도착해야 관광객이 적어 탁 트인 전망에서 인생 사진을 남길 수 있습니다. 관람 약 2시간 소요)
   * 🚌 **이동 방법 (호텔 ➡️ 어부의 요새)**:
     * 호텔에서 도보 3분 거리의 'Ferenciek tere M' 정류장에서 **16번 버스** 탑승 ➡️ 언덕을 올라가 'Szentháromság tér(삼위일체 광장)' 하차 (약 15분 소요).
-    * <img src="./assets/budapest_to_fishermans_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="어부의 요새 이동 경로 지도">
+    * <img src="./assets/budapest_to_fishermans_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="어부의 요새 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_to_fishermans_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="어부의 요새 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/fishermans_bastion.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **12:00 ~ 14:00**: 부다 성 주변에서 점심 식사 및 카페 휴식.
 * **14:00 ~ 17:00**: **부다 성(왕궁)** 외부 산책 및 국립 미술관 관람. 왕궁 언덕에서 내려다보는 페스트 지구의 파노라마 뷰 감상.
@@ -45,7 +47,8 @@
 * **09:00 ~ 13:00**: **세체니 온천** 방문. 고풍스러운 노란색 궁전 양식의 야외 온천에서 여독 풀기. (수영복 및 슬리퍼 필수 지참, 약 3시간 소요)
   * 🚇 **이동 방법 (호텔 ➡️ 세체니 온천)**:
     * 호텔 근처 'Ferenciek tere' 역에서 M3(파란색) 탑승 ➡️ 'Deák Ferenc tér' 역에서 환승 ➡️ **M1(노란색, 세계에서 2번째로 오래된 지하철)** 탑승 ➡️ 'Széchenyi fürdő(세체니 퓌르되)' 역 하차 (약 20분 소요).
-    * <img src="./assets/budapest_to_szechenyi_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 지도">
+    * <img src="./assets/budapest_to_szechenyi_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_to_szechenyi_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/szechenyi_bath.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 온천 근처 시민 공원 산책 후 점심 식사 (예: 군델 레스토랑 또는 멘자).
 * **15:00 ~ 18:00**: **성 이슈트반 대성당** 관람 (전망대 등탑 추천). 이후 명품 숍과 카페가 즐비한 안드라시 거리(Andrássy út) 도보 산책.

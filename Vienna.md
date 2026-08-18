@@ -21,16 +21,19 @@
 * **07:00 ~ 11:30**: 부다페스트에서 조식 후 체크아웃 및 기차역(Budapest-Keleti)으로 이동.
   * 🚇 **이동 방법 (파리시 우드버르 호텔 ➡️ 켈레티 기차역)**:
     * 호텔 인근 'Ferenciek tere' 역에서 **M3(파란색)** 탑승 ➡️ 'Kálvin tér' 역에서 **M4(초록색)** 환승 ➡️ 'Keleti pályaudvar' 역 하차 (약 20분 소요).
-    * <img src="./assets/bud_hotel_to_keleti_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="부다페스트 기차역 이동 경로 지도">
+    * <img src="./assets/bud_hotel_to_keleti_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="부다페스트 기차역 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/bud_hotel_to_keleti_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="부다페스트 기차역 이동 경로 지도 AI생성본"></details>
 * **11:30 ~ 14:20**: 기차 탑승 및 비엔나 중앙역(Wien Hbf)으로 이동. (OBB RJX 64 열차, 23호차, 좌석번호 104 & 106)
 * **14:20 ~ 15:00**: 비엔나 시내 진입 및 호텔 체크인. 파크 하얏트 비엔나는 구시가지 중심부(Am Hof)에 위치합니다.
   * 🚇 **이동 방법 (비엔나 중앙역 ➡️ 파크 하얏트 비엔나)**:
     * 기차역 하차 후 지하철 표지판(U-Bahn)을 따라 이동 ➡️ **U1(빨간색)** 탑승 ➡️ 'Stephansplatz' 역 하차 후 도보 5분 거리 (약 15분 소요).
-    * <img src="./assets/vienna_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="비엔나 중앙역에서 호텔 이동 경로 지도">
+    * <img src="./assets/vienna_hbf_to_hotel_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="비엔나 중앙역에서 호텔 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="비엔나 중앙역에서 호텔 이동 경로 지도 AI생성본"></details>
 * **15:00 ~ 18:00**: 호텔에서 도보 5분 거리인 **슈테판 대성당** 방문. 웅장한 고딕 양식 감상 후, 비엔나의 명동이라 불리는 **게른트너 거리**와 **그라벤 거리** 산책.
   * 🚶‍♂️ **이동 방법 (호텔 ➡️ 슈테판 대성당)**:
     * 호텔 정문에서 나와 보그너가세(Bognergasse)와 그라벤(Graben) 명품 거리를 따라 직선으로 도보 5분(약 450m).
-    * <img src="./assets/vienna_hotel_to_stephens_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 슈테판 대성당 도보 지도">
+    * <img src="./assets/vienna_hotel_to_stephens_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 슈테판 대성당 도보 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hotel_to_stephens_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 슈테판 대성당 도보 지도 AI생성본"></details>
   * <img src="./assets/st_stephens_cathedral.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **18:00 ~ 20:00**: 저녁으로 오리지널 '슈니첼'(예: 피그뮬러)을 맛보고 휴식.
 * 💡 **Tip**: 피그뮬러 같은 유명 식당은 저녁 시간대 웨이팅이 깁니다. 여행 전 미리 온라인 예약을 해두는 것이 좋습니다.
@@ -40,13 +43,15 @@
 * **09:00 ~ 13:00**: 대중교통을 타고 **쇤브룬궁** 이동. 그랜드 투어로 화려한 궁전 내부를 관람하고, 언덕 위의 글로리에테 정원까지 산책. (총 3시간 이상 소요)
   * 🚇 **이동 방법 (호텔 ➡️ 쇤브룬 궁전)**:
     * 도보 5분 거리의 'Stephansplatz' 역 또는 'Herrengasse' 역에서 지하철 탑승 ➡️ **U4(초록색)** 노선을 타고 'Schönbrunn' 역 하차 후 도보 5분 (약 30분 소요).
-    * <img src="./assets/vienna_hotel_to_schonbrunn_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 쇤브룬 궁전 이동 경로 지도">
+    * <img src="./assets/vienna_hotel_to_schonbrunn_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 쇤브룬 궁전 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hotel_to_schonbrunn_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 쇤브룬 궁전 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/schonbrunn_palace.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 시내로 돌아와 카페 센트랄(Café Central)이나 카페 자허(Café Sacher)에서 멜란지 커피와 디저트로 점심 겸 우아한 티타임.
 * **15:00 ~ 18:00**: 대중교통을 이용해 **벨베데레 궁전(상궁)**으로 이동. 구스타프 클림트의 명화 '키스' 원작 감상 및 바로크 양식의 정원 산책.
   * 🚋 **이동 방법 (쇤브룬 궁전 ➡️ 벨베데레 궁전)**:
     * 'Schönbrunn' 역에서 **U4(초록색)** 탑승 ➡️ 'Karlsplatz' 역 하차 ➡️ 지상으로 올라와 **트램 D번** 탑승 ➡️ 'Schloss Belvedere' 정류장 하차 (약 25분 소요).
-    * <img src="./assets/vienna_schonbrunn_to_belvedere_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="쇤브룬에서 벨베데레 이동 경로 지도">
+    * <img src="./assets/vienna_schonbrunn_to_belvedere_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="쇤브룬에서 벨베데레 이동 경로 구글맵 캡처">
+      <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_schonbrunn_to_belvedere_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="쇤브룬에서 벨베데레 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/belvedere.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **18:00 ~ 20:00**: 시내 복귀 후 **호프부르크 왕궁** 야외 야경 산책 및 저녁 식사.<br><img src="./assets/hofburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 쇤브룬궁과 벨베데레 궁전 모두 오전에 관광객이 몰리므로, 티켓은 반드시 공홈에서 시간 지정 예약(Time-slot)을 해두어야 대기 없이 입장할 수 있습니다.
