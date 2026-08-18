@@ -30,7 +30,11 @@
 
 ### 📍 9/4 (금) 부다 지구 집중 투어
 * **07:00 ~ 09:00**: 기상 및 호텔 조식 후 외출 준비.
-* **09:00 ~ 12:00**: 대중교통(16번 버스 등) 또는 택시를 타고 부다 지구 언덕으로 이동. **어부의 요새**와 **마차시 성당** 관람. (오전 9시쯤 도착해야 관광객이 적어 탁 트인 전망에서 인생 사진을 남길 수 있습니다. 관람 약 2시간 소요)<br><img src="./assets/fishermans_bastion.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **09:00 ~ 12:00**: 부다 지구 언덕으로 이동하여 **어부의 요새**와 **마차시 성당** 관람. (오전 9시쯤 도착해야 관광객이 적어 탁 트인 전망에서 인생 사진을 남길 수 있습니다. 관람 약 2시간 소요)
+  * 🚌 **이동 방법 (호텔 ➡️ 어부의 요새)**:
+    * 호텔에서 도보 3분 거리의 'Ferenciek tere M' 정류장에서 **16번 버스** 탑승 ➡️ 언덕을 올라가 'Szentháromság tér(삼위일체 광장)' 하차 (약 15분 소요).
+    * <img src="./assets/budapest_to_fishermans_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="어부의 요새 이동 경로 지도">
+  * <img src="./assets/fishermans_bastion.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **12:00 ~ 14:00**: 부다 성 주변에서 점심 식사 및 카페 휴식.
 * **14:00 ~ 17:00**: **부다 성(왕궁)** 외부 산책 및 국립 미술관 관람. 왕궁 언덕에서 내려다보는 페스트 지구의 파노라마 뷰 감상.
 * **17:00 ~ 20:00**: 푸니쿨라를 타고 내려와 바차니 광장(Batthyány tér)으로 이동. 도나우 강 건너편에서 **국회의사당**에 불이 켜지는 압도적인 장관 감상 후 저녁 식사.<br><img src="./assets/hungarian_parliament.jpg" height="120" style="border-radius:8px; margin-top:5px;">
@@ -38,7 +42,11 @@
 
 ### 📍 9/5 (토) 온천과 페스트 지구
 * **07:00 ~ 09:00**: 기상 및 조식. 수영복 챙겨서 외출.
-* **09:00 ~ 13:00**: **세체니 온천** 방문 (지하철 M1 라인 이용, 역에서 바로 연결). 고풍스러운 노란색 궁전 양식의 야외 온천에서 여독 풀기. (수영복 및 슬리퍼 필수 지참, 약 3시간 소요)<br><img src="./assets/szechenyi_bath.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **09:00 ~ 13:00**: **세체니 온천** 방문. 고풍스러운 노란색 궁전 양식의 야외 온천에서 여독 풀기. (수영복 및 슬리퍼 필수 지참, 약 3시간 소요)
+  * 🚇 **이동 방법 (호텔 ➡️ 세체니 온천)**:
+    * 호텔 근처 'Ferenciek tere' 역에서 M3(파란색) 탑승 ➡️ 'Deák Ferenc tér' 역에서 환승 ➡️ **M1(노란색, 세계에서 2번째로 오래된 지하철)** 탑승 ➡️ 'Széchenyi fürdő(세체니 퓌르되)' 역 하차 (약 20분 소요).
+    * <img src="./assets/budapest_to_szechenyi_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 지도">
+  * <img src="./assets/szechenyi_bath.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 온천 근처 시민 공원 산책 후 점심 식사 (예: 군델 레스토랑 또는 멘자).
 * **15:00 ~ 18:00**: **성 이슈트반 대성당** 관람 (전망대 등탑 추천). 이후 명품 숍과 카페가 즐비한 안드라시 거리(Andrássy út) 도보 산책.
 * **18:00 ~ 22:00**: 저녁 식사 후 부다페스트 특유의 문화인 '루인 바' **Szimpla Kert** 방문. 폐공장을 힙하게 개조한 몽환적인 분위기에서 가볍게 맥주나 칵테일 한 잔.
