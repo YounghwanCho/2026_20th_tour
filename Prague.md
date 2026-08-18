@@ -23,7 +23,7 @@
 * **15:39 ~ 17:00**: 프라하 도착 및 호텔 체크인. 안다즈 프라하는 구시가지 근처에 위치합니다.
   * 🚋 **이동 방법 (프라하 중앙역 ➡️ 안다즈 프라하)**:
     * 기차역(Hlavní nádraží) 밖 트램 정류장에서 **9번, 5번, 26번 트램** 중 하나를 탑승 ➡️ 한 정거장 이동 후 'Jindřišská' 하차하여 도보 3분. (택시 이용 시 5분 내 도착).
-    * <img src="./assets/prague_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 중앙역에서 호텔 이동 경로 지도">
+    * <a href="https://www.google.com/maps/dir/?api=1&origin=Praha+hlavní+nádraží&destination=Andaz+Prague&travelmode=transit" target="_blank"><img src="./assets/prague_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 중앙역에서 호텔 이동 경로 구글맵 캡처"></a>
 * **17:00 ~ 21:00**: 구시가 광장으로 도보 이동. 매시 정각에 울리는 **천문시계탑** 쇼를 관람하고, 틴 성당과 화약탑 주변의 야경을 즐기며 체코 흑맥주(코젤 등)와 꼴레뇨로 저녁 식사.
   * 🚶‍♂️ **이동 방법 (호텔 ➡️ 구시가 광장)**:
     * 호텔에서 도보로 화약탑(Powder Tower)을 지나 첼레트나(Celetná) 거리를 따라 직진하면 10분 내로 구시가 광장에 도착합니다.
@@ -35,13 +35,13 @@
 * **09:00 ~ 13:00**: 트램을 타고 언덕 위의 **프라하 성**으로 이동. (아침 일찍 가야 보안 검색대 줄이 짧습니다.) 성 비투스 대성당의 스테인드글라스, 구왕궁, 아기자기한 황금소로 등 관람.
   * 🚋 **이동 방법 (호텔 ➡️ 프라하 성)**:
     * 호텔 근처 'Náměstí Republiky' 정류장에서 **15번 트램** 탑승 ➡️ 'Malostranská' 하차 후 **22번 트램**으로 환승 ➡️ 'Pražský hrad(프라하 성)' 정류장에서 하차 (약 25분 소요). 언덕을 힘들이지 않고 올라가는 가장 추천하는 트램 경로입니다.
-    * <img src="./assets/prague_hotel_to_castle_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 프라하 성 이동 경로 지도">
+    * <a href="https://www.google.com/maps/dir/?api=1&origin=Andaz+Prague&destination=Prague+Castle&travelmode=transit" target="_blank"><img src="./assets/prague_hotel_to_castle_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 프라하 성 이동 경로 구글맵 캡처"></a>
   * <img src="./assets/prague_castle.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 말라스트라나 지구(성채 아래)의 로맨틱한 식당에서 점심 식사.
 * **15:00 ~ 18:00**: 아름다운 상점들이 모인 네루도바 거리를 따라 걸어 내려옴. 존 레논 벽을 구경한 뒤, 해 질 녘에 맞추어 **카를교** 도보 횡단. 거리의 악사들과 블타바 강, 붉은 노을의 조화 감상.
   * 🚶‍♂️ **이동 방법 (프라하 성 ➡️ 카를교)**:
     * 프라하 성 관람 후, 말라스트라나의 옛 골목길(Nerudova 거리)을 따라 천천히 걸어 내려오면 약 15~20분 만에 카를교 입구에 닿습니다.
-    * <img src="./assets/prague_castle_to_bridge_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 성에서 카를교 이동 경로 지도">
+    * <a href="https://www.google.com/maps/dir/?api=1&origin=Prague+Castle&destination=Charles+Bridge,+Prague&travelmode=walking" target="_blank"><img src="./assets/prague_castle_to_bridge_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 성에서 카를교 이동 경로 구글맵 캡처"></a>
   * <img src="./assets/charles_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **18:00 ~ 21:00**: 카를교를 건너 구시가로 돌아와 저녁 식사. 길거리 간식인 '뜨르들로(굴뚝빵)' 필수 맛보기.
 * 💡 **Tip**: 프라하 성의 성 비투스 대성당 내부에 있는 알폰스 무하의 스테인드글라스는 햇빛이 들어오는 오전에 보아야 가장 아름답습니다.
@@ -62,7 +62,7 @@
   * 🚕 **이동 방법 (호텔 ➡️ 프라하 공항)**:
     * 캐리어가 있으므로 볼트(Bolt)나 우버(Uber)를 호출하여 이동하는 것을 추천합니다. (약 30~40분 소요, 500~600 CZK 내외).
     * 대중교통 이용 시 프라하 중앙역 앞으로 이동해 공항 직행 버스(AE: Airport Express)를 타면 편리하게 공항 터미널 앞까지 도착합니다.
-    * <img src="./assets/prague_hotel_to_airport_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 프라하 공항 이동 경로 지도">
+    * <a href="https://www.google.com/maps/dir/?api=1&origin=Andaz+Prague&destination=Václav+Havel+Airport+Prague&travelmode=transit" target="_blank"><img src="./assets/prague_hotel_to_airport_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 프라하 공항 이동 경로 구글맵 캡처"></a>
 * **16:00 ~ 19:00**: 공항 수속 및 면세점 구경. (19:05 귀국 비행기 탑승).
 * 💡 **Tip**: 체코는 유로가 아닌 코루나(CZK)를 사용하므로, 남은 코루나가 있다면 공항에서 면세품이나 초콜릿 등을 사서 털어버리는 것이 좋습니다.
 
