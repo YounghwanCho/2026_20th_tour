@@ -30,6 +30,7 @@
 * **15:00 ~ 18:00**: 버스를 타고 구시가지(알트슈타트)로 이동. 예쁜 철제 간판이 늘어선 **게트라이데 거리**를 산책하고 **모차르트 생가** 관람.
   * 🚌 **이동 방법 (호텔 ➡️ 구시가지)**:
     * 숙소 근처 정류장에서 **1번 버스** 탑승 ➡️ 시내 중심부 'Hanuschplatz(하누쉬플라츠)' 하차 후 도보 3분 (약 10분 소요).
+    * <img src="./assets/salzburg_hotel_to_oldtown_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 구시가지 이동 경로 지도">
   * <img src="./assets/mozart_birthplace.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **18:00 ~ 21:00**: 잘츠자흐 강변을 따라 걸으며 일몰 감상. 저녁에는 '아우구스티너 수도원 맥주홀'에 들러 오크통에서 뽑아내는 신선한 맥주와 학센 즐기기. 멀리 불 켜진 호엔잘츠부르크 성의 완벽한 야경 감상.<br><img src="./assets/hohensalzburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 잘츠부르크 시내 대중교통과 주요 관광지 입장이 모두 무료인 '잘츠부르크 카드(24시간권)'를 중앙역이나 인포메이션에서 구매하면 매우 경제적입니다.
@@ -41,6 +42,7 @@
 * **14:00 ~ 17:00**: 케이블카(푸니쿨라)를 타고 **호엔잘츠부르크 성**에 등반. 성 내부 무기고 등을 관람하고, 잘츠부르크 시내와 알프스 만년설이 어우러진 최고의 파노라마 절경 감상.
   * 🚶‍♂️🚡 **이동 방법 (구시가지 ➡️ 호엔잘츠부르크 성)**:
     * 카피텔 광장(Kapitelplatz)에서 페스퉁스가세(Festungsgasse) 길을 따라 도보 이동 ➡️ **푸니쿨라(Festungsbahn)** 탑승장 도착 ➡️ 1분 만에 성벽 위로 수직 상승.
+    * <img src="./assets/salzburg_oldtown_to_fortress_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="구시가지에서 호엔잘츠부르크 성 이동 경로 지도">
 * **17:00 ~ 20:00**: 잘츠부르크 대성당과 레지덴츠 광장 산책 후 여유로운 저녁 식사.
 * 💡 **Tip**: 호엔잘츠부르크 성의 야외 카페테리아에서 커피 한 잔을 마시며 내려다보는 시내 전경이 예술입니다.
 
@@ -48,6 +50,7 @@
 * **07:00 ~ 09:50**: 기상, 여유로운 조식 후 짐 정리 및 잘츠부르크 중앙역으로 이동.
   * 🚌 **이동 방법 (호텔 ➡️ 잘츠부르크 중앙역)**:
     * 올 때와 동일하게 숙소 근처 길 건너 정류장에서 **1번 버스** 탑승 ➡️ 종점인 'Salzburg Hbf(중앙역)' 하차 (약 15분 소요).
+    * <img src="./assets/salzburg_hotel_to_hbf_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 중앙역 복귀 이동 경로 지도">
 * **09:52 ~ 11:04**: 잘츠부르크 출발, 린츠(Linz) 도착. (Westbahn 911 열차, 15호차, 좌석번호 513A & 513B)
 * **11:04 ~ 11:54**: 린츠 역에서 프라하행 기차 환승 대기.
 
