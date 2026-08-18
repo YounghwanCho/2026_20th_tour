@@ -18,9 +18,14 @@
 ## 🗓️ 일정 계획
 
 ### 📍 9/3 (목) 입국 및 야경
-* **18:05 ~ 19:30**: 부다페스트 공항(BUD T2B) 도착, 수하물 수취 및 호텔 이동. (공항 택시 볼트(Bolt) 또는 100E 버스 이용, 약 40분 소요)
+* **18:05 ~ 19:30**: 부다페스트 공항(BUD T2B) 도착, 수하물 수취 및 호텔 이동. (약 40~50분 소요)
+  * 🚌 **100E 공항 익스프레스 버스 이용 안내**:
+    * **타는 곳**: 제2터미널(T2A와 T2B 사이) 입국장 앞 100E 버스 정류장
+    * **티켓 구매**: 정류장 앞 보라색 BKK 발권기 또는 'BudapestGO' 앱에서 탑승권(Airport shuttle bus single ticket) 구매 (2200 HUF)
+    * **경로**: 공항 출발 ➡️ **Kálvin tér(칼빈 광장)** 또는 **Astoria** 하차 (호텔까지 도보 5분 거리)
+    * <img src="./assets/budapest_100e_bus_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도">
 * **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사. (호텔 근처 바치 거리(Váci utca) 번화가에서 간단하게 식사)
-* **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><img src="./assets/budapest_day1_night_walk_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 지도"><br><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 비행 탑승으로 피곤할 수 있으니 첫날 야경 일정은 컨디션에 따라 가볍게 둘러보는 것을 추천합니다. 호텔 1층 '파리시 파사쥬(Párisi Passage)' 카페의 화려한 건축미도 체크인 시 놓치지 마세요.
 
 ### 📍 9/4 (금) 부다 지구 집중 투어
