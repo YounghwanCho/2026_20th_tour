@@ -8,7 +8,7 @@
 
 여행 동선과 맞물려 방문하기 좋은 핵심 관광지(파란색 이름표), 추천 식당(빨간색 번호), 주류 특화 공간(보라색 번호)입니다. 지도 속 번호는 아래 설명의 번호와 일치합니다.
 
-<a href="https://htmlpreview.github.io/?https://github.com/YounghwanCho/2026_20th_tour/blob/main/assets/maps/budapest_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
+<a href="https://raw.githack.com/YounghwanCho/2026_20th_tour/main/assets/maps/budapest_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
   <img src="./assets/budapest_food_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:800px;" alt="부다페스트 미식 지도">
 </a>
 
