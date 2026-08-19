@@ -6,7 +6,7 @@
 
 관광지 및 숙소는 파란색 이름표로 표시되어 있으며, 맛집 및 카페/펍은 붉은색과 보라색 번호로 표시되어 있습니다. 번호는 아래 설명과 일치합니다.
 
-<a href="./assets/maps/salzburg_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
+<a href="https://htmlpreview.github.io/?https://github.com/YounghwanCho/2026_20th_tour/blob/main/assets/maps/salzburg_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
   <img src="./assets/salzburg_food_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:800px;" alt="잘츠부르크 미식 지도">
 </a>
 
