@@ -38,6 +38,8 @@
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_to_fishermans_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="어부의 요새 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/fishermans_bastion.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **12:00 ~ 14:00**: 부다 성 주변에서 점심 식사 및 카페 휴식.
+  * 🍽️ **추천 식당**: [페스트-부다 비스트로 (Pest-Buda Bistro)](https://www.google.com/maps/search/?api=1&query=Pest-Buda+Bistro+Budapest) (클래식한 헝가리 가정식과 굴라시), [할라쉬바슈탸 레스토랑 (Halászbástya Étterem)](https://www.google.com/maps/search/?api=1&query=Halászbástya+Restaurant+Budapest) (어부의 요새 내에 위치하여 다뉴브 강 뷰가 일품)
+  * ☕ **추천 카페**: [레테슈바르 (Budavári Rétesvár)](https://www.google.com/maps/search/?api=1&query=Budavári+Rétesvár+Budapest) (부다 성 골목에 위치한 헝가리 전통 파이 '슈트루델(Rétes)' 전문 디저트 맛집)
 * **14:00 ~ 17:00**: **부다 성(왕궁)** 외부 산책 및 국립 미술관 관람. 왕궁 언덕에서 내려다보는 페스트 지구의 파노라마 뷰 감상.
 * **17:00 ~ 20:00**: 푸니쿨라를 타고 내려와 바차니 광장(Batthyány tér)으로 이동. 도나우 강 건너편에서 **국회의사당**에 불이 켜지는 압도적인 장관 감상 후 저녁 식사.<br><img src="./assets/hungarian_parliament.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 국회의사당 야경 사진은 바차니 광장 쪽 강변 벤치에 앉아서 찍는 것이 정석입니다. 강바람이 찰 수 있으니 가벼운 겉옷을 챙기세요.
