@@ -19,10 +19,10 @@
 
 <br>
 
-1. [🇭🇺 부다페스트 (9/3 ~ 9/6)](./Budapest.md)
-2. [🇦🇹 비엔나 (9/6 ~ 9/9)](./Vienna.md)
-3. [🇦🇹 잘츠부르크 (9/9 ~ 9/11)](./Salzburg.md)
-4. [🇨🇿 프라하 (9/11 ~ 9/14)](./Prague.md)
+1. [🇭🇺 부다페스트 (9/3 ~ 9/6)](./Budapest.md) &nbsp;⎮&nbsp; [🍽️ 미식/쇼핑 가이드](./Budapest_Food_Shopping.md)
+2. [🇦🇹 비엔나 (9/6 ~ 9/9)](./Vienna.md) &nbsp;⎮&nbsp; [🍽️ 미식/쇼핑 가이드](./Vienna_Food_Shopping.md)
+3. [🇦🇹 잘츠부르크 (9/9 ~ 9/11)](./Salzburg.md) &nbsp;⎮&nbsp; [🍽️ 미식/쇼핑 가이드](./Salzburg_Food_Shopping.md)
+4. [🇨🇿 프라하 (9/11 ~ 9/14)](./Prague.md) &nbsp;⎮&nbsp; [🍽️ 미식/쇼핑 가이드](./Prague_Food_Shopping.md)
 
 ---
 
