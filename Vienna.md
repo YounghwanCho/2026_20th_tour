@@ -35,7 +35,8 @@
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Park+Hyatt+Vienna&destination=St.+Stephen's+Cathedral,+Vienna&travelmode=walking" target="_blank"><img src="./assets/vienna_hotel_to_stephens_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 슈테판 대성당 도보 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hotel_to_stephens_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 슈테판 대성당 도보 지도 AI생성본"></details>
   * <img src="./assets/st_stephens_cathedral.jpg" height="120" style="border-radius:8px; margin-top:5px;">
-* **18:00 ~ 20:00**: 저녁으로 오리지널 '슈니첼'(예: 피그뮬러)을 맛보고 휴식.
+* **18:00 ~ 20:00**: 저녁 식사 및 휴식.
+  * 🍽️ **추천 식당**: [피그뮬러(Figlmüller)](https://www.google.com/maps/search/?api=1&query=Figlmüller+Vienna) (100년 전통의 얇고 거대한 오리지널 슈니첼 맛집)
 * 💡 **Tip**: 피그뮬러 같은 유명 식당은 저녁 시간대 웨이팅이 깁니다. 여행 전 미리 온라인 예약을 해두는 것이 좋습니다.
 
 ### 📍 9/7 (월) 합스부르크 왕가의 발자취
@@ -46,22 +47,27 @@
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Park+Hyatt+Vienna&destination=Schönbrunn+Palace,+Vienna&travelmode=transit" target="_blank"><img src="./assets/vienna_hotel_to_schonbrunn_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 쇤브룬 궁전 이동 경로 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_hotel_to_schonbrunn_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 쇤브룬 궁전 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/schonbrunn_palace.jpg" height="120" style="border-radius:8px; margin-top:5px;">
-* **13:00 ~ 15:00**: 시내로 돌아와 카페 센트랄(Café Central)이나 카페 자허(Café Sacher)에서 멜란지 커피와 디저트로 점심 겸 우아한 티타임.
+* **13:00 ~ 15:00**: 시내로 돌아와 점심 겸 우아한 티타임.
+  * ☕ **추천 카페**: [카페 센트랄(Café Central)](https://www.google.com/maps/search/?api=1&query=Café+Central+Vienna) (트로츠키, 프로이트가 사랑한 화려한 궁전 카페), [카페 자허(Café Sacher)](https://www.google.com/maps/search/?api=1&query=Café+Sacher+Vienna) (오리지널 자허토르테의 본고장)
 * **15:00 ~ 18:00**: 대중교통을 이용해 **벨베데레 궁전(상궁)**으로 이동. 구스타프 클림트의 명화 '키스' 원작 감상 및 바로크 양식의 정원 산책.
   * 🚋 **이동 방법 (쇤브룬 궁전 ➡️ 벨베데레 궁전)**:
     * 'Schönbrunn' 역에서 **U4(초록색)** 탑승 ➡️ 'Karlsplatz' 역 하차 ➡️ 지상으로 올라와 **트램 D번** 탑승 ➡️ 'Schloss Belvedere' 정류장 하차 (약 25분 소요).
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Schönbrunn+Palace,+Vienna&destination=Belvedere+Palace,+Vienna&travelmode=transit" target="_blank"><img src="./assets/vienna_schonbrunn_to_belvedere_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="쇤브룬에서 벨베데레 이동 경로 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/vienna_schonbrunn_to_belvedere_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="쇤브룬에서 벨베데레 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/belvedere.jpg" height="120" style="border-radius:8px; margin-top:5px;">
-* **18:00 ~ 20:00**: 시내 복귀 후 **호프부르크 왕궁** 야외 야경 산책 및 저녁 식사.<br><img src="./assets/hofburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **18:00 ~ 20:00**: 시내 복귀 후 **호프부르크 왕궁** 야외 야경 산책 및 저녁 식사.
+  * 🍽️ **추천 식당**: [플라후타(Plachutta)](https://www.google.com/maps/search/?api=1&query=Plachutta+Vienna) (오스트리아 전통 소고기 수육 '타펠슈피츠' 최고 명가), [립스 오브 비엔나(Ribs of Vienna)](https://www.google.com/maps/search/?api=1&query=Ribs+of+Vienna) (한국인 입맛에 딱 맞는 1m 길이의 폭립)
+  * <img src="./assets/hofburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 쇤브룬궁과 벨베데레 궁전 모두 오전에 관광객이 몰리므로, 티켓은 반드시 공홈에서 시간 지정 예약(Time-slot)을 해두어야 대기 없이 입장할 수 있습니다.
 
 ### 📍 9/8 (화) 예술과 음악의 날
 * **07:00 ~ 09:00**: 기상 및 조식.
 * **09:00 ~ 13:00**: **미술사 박물관(Kunsthistorisches Museum)** 관람. 합스부르크 왕가가 수집한 브뤼겔, 루벤스 등의 엄청난 컬렉션을 감상 (건물 자체가 예술 작품입니다).<br><img src="./assets/kunsthistorisches_museum.png" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 박물관 2층에 있는 세상에서 가장 아름다운 카페 '쿠폴라할레'에서 우아한 점심 식사.
+  * 🍽️ **추천 카페/식당**: [미술사 박물관 카페(Cafe-Restaurant im Kunsthistorischen Museum)](https://www.google.com/maps/search/?api=1&query=Cafe-Restaurant+im+Kunsthistorischen+Museum) (웅장한 돔 아래에서 식사와 커피를 즐길 수 있음)
 * **15:00 ~ 18:00**: 알베르티나 미술관을 가볍게 둘러보거나, 빈 오페라 극장 주변 구시가지 골목길 쇼핑.
 * **18:00 ~ 22:00**: 저녁 식사 후 **비엔나 국립 오페라 극장**이나 **무지크페어라인**에서 오페라 또는 클래식 콘서트 관람.
+  * 🍽️ **추천 식당 (간단한 식사)**: [비칭어 소시지 스탠드(Bitzinger Würstelstand)](https://www.google.com/maps/search/?api=1&query=Bitzinger+Würstelstand+Albertina) (오페라 극장 옆 명물 소시지 스탠드, 치즈가 들어간 케제크라이너 추천)
 * 💡 **Tip**: 비엔나의 클래식 공연은 음악의 도시답게 질이 매우 높습니다. 여행 날짜에 맞는 공연 티켓을 한국에서 미리 예매해 두는 것을 강력히 추천합니다.
 
 ## 🍽️ 추천 음식 & 식당
@@ -74,6 +80,9 @@
   * **[립스 오브 비엔나 (Ribs of Vienna)](https://www.google.com/maps/search/?api=1&query=Ribs+of+Vienna)**: 1m 길이의 폭립으로 유명. 한국어 메뉴판이 있을 정도로 한국인에게 인기 만점.
   * **[플라후타 (Plachutta)](https://www.google.com/maps/search/?api=1&query=Plachutta+Vienna)**: 오스트리아 전통 고기 요리인 타펠슈피츠의 최고 명가.
   * **[카페 자허 (Café Sacher)](https://www.google.com/maps/search/?api=1&query=Café+Sacher+Vienna) / [카페 센트랄 (Café Central)](https://www.google.com/maps/search/?api=1&query=Café+Central+Vienna)**: 비엔나 3대 카페. 화려한 궁전 인테리어에서의 우아한 티타임.
+  * **[미술사 박물관 카페 (Cafe-Restaurant im Kunsthistorischen Museum)](https://www.google.com/maps/search/?api=1&query=Cafe-Restaurant+im+Kunsthistorischen+Museum)**: 미술사 박물관 내의 아름다운 돔 아래에 위치한 우아한 다이닝 카페.
+  * **[비칭어 소시지 스탠드 (Bitzinger Würstelstand)](https://www.google.com/maps/search/?api=1&query=Bitzinger+Würstelstand+Albertina)**: 오페라 극장 옆에 위치한 비엔나 최고의 소시지 맛집. 바게트 빵에 소시지를 끼워줌.
+
 
 ## 🛍️ 필수 쇼핑 리스트
 

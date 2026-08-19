@@ -25,7 +25,8 @@
     * **경로**: 공항 출발 ➡️ **Kálvin tér(칼빈 광장)** 또는 **Astoria** 하차 (호텔까지 도보 5분 거리)
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Budapest+Airport&destination=Párisi+Udvar+Hotel+Budapest&travelmode=transit" target="_blank"><img src="./assets/budapest_100e_bus_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_100e_bus_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 AI생성본"></details>
-* **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사. (호텔 근처 바치 거리(Váci utca) 번화가에서 간단하게 식사 or 마트? City SPAR)
+* **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사.
+  * 🍽️ **추천 식당 (호텔 주변)**: [벨바로시 디스노토로스(Belvárosi Disznótoros)](https://www.google.com/maps/search/?api=1&query=Belvárosi+Disznótoros+Budapest) (원하는 고기를 골라 구워주는 캐주얼 로컬 고기 맛집)
 * **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><a href="https://www.google.com/maps/dir/?api=1&origin=Párisi+Udvar+Hotel+Budapest&destination=Széchenyi+Chain+Bridge&travelmode=walking" target="_blank"><img src="./assets/budapest_day1_night_walk_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 구글맵 캡처"></a><br><details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_day1_night_walk_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 지도 AI생성본"></details><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 비행 탑승으로 피곤할 수 있으니 첫날 야경 일정은 컨디션에 따라 가볍게 둘러보는 것을 추천합니다. 호텔 1층 '파리시 파사쥬(Párisi Passage)' 카페의 화려한 건축미도 체크인 시 놓치지 마세요.
 
@@ -59,9 +60,11 @@
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Párisi+Udvar+Hotel+Budapest&destination=Széchenyi+Thermal+Bath,+Budapest&travelmode=transit" target="_blank"><img src="./assets/budapest_to_szechenyi_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_to_szechenyi_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="세체니 온천 이동 경로 지도 AI생성본"></details>
   * <img src="./assets/szechenyi_bath.jpg" height="120" style="border-radius:8px; margin-top:5px;">
-* **13:00 ~ 15:00**: 온천 근처 시민 공원 산책 후 점심 식사 (예: 군델 레스토랑 또는 멘자).
+* **13:00 ~ 15:00**: 온천 근처 시민 공원 산책 후 점심 식사.
+  * 🍽️ **추천 식당**: [군델 레스토랑(Gundel Cafe Patisserie Restaurant)](https://www.google.com/maps/search/?api=1&query=Gundel+Restaurant+Budapest) (유서 깊은 최고급 헝가리 레스토랑), [멘자(Menza Restaurant)](https://www.google.com/maps/search/?api=1&query=Menza+Restaurant+Budapest) (현대적이고 깔끔한 굴라시 및 오리 가슴살 요리)
 * **15:00 ~ 18:00**: **성 이슈트반 대성당** 관람 (전망대 등탑 추천). 이후 명품 숍과 카페가 즐비한 안드라시 거리(Andrássy út) 도보 산책.
-* **18:00 ~ 22:00**: 저녁 식사 후 부다페스트 특유의 문화인 '루인 바' **Szimpla Kert** 방문. 폐공장을 힙하게 개조한 몽환적인 분위기에서 가볍게 맥주나 칵테일 한 잔.
+* **18:00 ~ 22:00**: 시내 중심가에서 저녁 식사 후 부다페스트 특유의 문화인 '루인 바' **Szimpla Kert** 방문. 폐공장을 힙하게 개조한 몽환적인 분위기에서 가볍게 맥주 한 잔.
+  * 🍽️ **추천 식당**: [키슈카쿠크(Kiskakukk Étterem)](https://www.google.com/maps/search/?api=1&query=Kiskakukk+Étterem+Budapest) (푸아그라 요리 추천), [까마귀 식당(VakVarjú Restaurant)](https://www.google.com/maps/search/?api=1&query=VakVarjú+Restaurant+Budapest) (분위기 좋고 가성비 훌륭한 헝가리 요리)
 * 💡 **Tip**: 온천 갈 때는 호텔에서 챙겨간 타월을 가져가면 대여 줄을 서지 않아도 되어 편리합니다.
 
 ## 🍽️ 추천 음식 & 식당
@@ -74,6 +77,9 @@
   * **[까마귀 식당 (VakVarjú Restaurant)](https://www.google.com/maps/search/?api=1&query=VakVarjú+Restaurant+Budapest)**: 현지인과 관광객 모두에게 인기 있는 가성비 좋고 분위기 좋은 레스토랑.
   * **[뉴욕 카페 (New York Cafe)](https://www.google.com/maps/search/?api=1&query=New+York+Cafe+Budapest)**: 세계에서 가장 아름다운 카페. 화려한 금빛 장식 속에서 디저트 즐기기.
   * **[젤라르토 로사 (Gelarto Rosa)](https://www.google.com/maps/search/?api=1&query=Gelarto+Rosa+Budapest)**: 성 이슈트반 대성당 앞, 아이스크림을 장미꽃 모양으로 예쁘게 빚어주는 젤라또 맛집.
+  * **[벨바로시 디스노토로스 (Belvárosi Disznótoros)](https://www.google.com/maps/search/?api=1&query=Belvárosi+Disznótoros+Budapest)**: 원하는 부위를 골라 먹는 캐주얼 로컬 고기 맛집.
+  * **[군델 레스토랑 (Gundel Cafe Patisserie Restaurant)](https://www.google.com/maps/search/?api=1&query=Gundel+Restaurant+Budapest)**: 세체니 온천 근처 헝가리를 대표하는 최고급 레스토랑.
+
 
 ## 🛍️ 필수 쇼핑 리스트
 

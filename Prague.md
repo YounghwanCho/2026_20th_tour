@@ -24,7 +24,8 @@
   * 🚋 **이동 방법 (프라하 중앙역 ➡️ 안다즈 프라하)**:
     * 기차역(Hlavní nádraží) 밖 트램 정류장에서 **9번, 5번, 26번 트램** 중 하나를 탑승 ➡️ 한 정거장 이동 후 'Jindřišská' 하차하여 도보 3분. (택시 이용 시 5분 내 도착).
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Praha+hlavní+nádraží&destination=Andaz+Prague&travelmode=transit" target="_blank"><img src="./assets/prague_hbf_to_hotel_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 중앙역에서 호텔 이동 경로 구글맵 캡처"></a>
-* **17:00 ~ 21:00**: 구시가 광장으로 도보 이동. 매시 정각에 울리는 **천문시계탑** 쇼를 관람하고, 틴 성당과 화약탑 주변의 야경을 즐기며 체코 흑맥주(코젤 등)와 꼴레뇨로 저녁 식사.
+* **17:00 ~ 21:00**: 구시가 광장으로 도보 이동. 매시 정각에 울리는 **천문시계탑** 쇼를 관람하고 야경을 즐기며 저녁 식사.
+  * 🍽️ **추천 식당**: [브 콜코브네(V Kolkovně)](https://www.google.com/maps/search/?api=1&query=V+Kolkovně+Prague) (필스너 우르켈이 인증한 분위기 좋은 펍, 꼴레뇨 맛집)
   * 🚶‍♂️ **이동 방법 (호텔 ➡️ 구시가 광장)**:
     * 호텔에서 도보로 화약탑(Powder Tower)을 지나 첼레트나(Celetná) 거리를 따라 직진하면 10분 내로 구시가 광장에 도착합니다.
   * <img src="./assets/astronomical_clock.jpg" height="120" style="border-radius:8px; margin-top:5px;">
@@ -38,26 +39,31 @@
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Andaz+Prague&destination=Prague+Castle&travelmode=transit" target="_blank"><img src="./assets/prague_hotel_to_castle_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 프라하 성 이동 경로 구글맵 캡처"></a>
   * <img src="./assets/prague_castle.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **13:00 ~ 15:00**: 말라스트라나 지구(성채 아래)의 로맨틱한 식당에서 점심 식사.
+  * 🍽️ **추천 식당**: [포크스(Pork's)](https://www.google.com/maps/search/?api=1&query=Pork's+Prague) (프라하 성 아래 위치한 압도적 비주얼의 꼴레뇨 전문점), [우 글라우비추(U Glaubiců)](https://www.google.com/maps/search/?api=1&query=U+Glaubiců+Prague) (역사가 깊고 가성비가 매우 훌륭한 로컬 펍)
 * **15:00 ~ 18:00**: 아름다운 상점들이 모인 네루도바 거리를 따라 걸어 내려옴. 존 레논 벽을 구경한 뒤, 해 질 녘에 맞추어 **카를교** 도보 횡단. 거리의 악사들과 블타바 강, 붉은 노을의 조화 감상.
   * 🚶‍♂️ **이동 방법 (프라하 성 ➡️ 카를교)**:
     * 프라하 성 관람 후, 말라스트라나의 옛 골목길(Nerudova 거리)을 따라 천천히 걸어 내려오면 약 15~20분 만에 카를교 입구에 닿습니다.
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Prague+Castle&destination=Charles+Bridge,+Prague&travelmode=walking" target="_blank"><img src="./assets/prague_castle_to_bridge_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="프라하 성에서 카를교 이동 경로 구글맵 캡처"></a>
   * <img src="./assets/charles_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **18:00 ~ 21:00**: 카를교를 건너 구시가로 돌아와 저녁 식사. 길거리 간식인 '뜨르들로(굴뚝빵)' 필수 맛보기.
+  * 🍽️ **추천 식당**: [칸티나(Kantýna)](https://www.google.com/maps/search/?api=1&query=Kantýna+Prague) (푸줏간 콘셉트의 트렌디한 고기 전문점, 타르타르 육회 추천)
 * 💡 **Tip**: 프라하 성의 성 비투스 대성당 내부에 있는 알폰스 무하의 스테인드글라스는 햇빛이 들어오는 오전에 보아야 가장 아름답습니다.
 
 ### 📍 9/13 (일) 구시가 깊이 보기 및 재즈 바
 * **07:00 ~ 09:00**: 기상 및 조식.
 * **09:00 ~ 13:00**: 구시가지 미로 같은 골목길 탐방. 하벨 시장(Havel's Market)에 들러 체코 전통 기념품(목각인형, 마그넷)과 과일 구경.
-* **13:00 ~ 15:00**: 점심 식사. 체코 양조장 식당 '우 플레쿠' 등에서 현지 분위기 물씬 나는 맥주 타임.
+* **13:00 ~ 15:00**: 점심 식사. 현지 분위기 물씬 나는 체코 양조장 식당에서 맥주 타임.
+  * 🍽️ **추천 식당**: [우 플레쿠(U Fleků)](https://www.google.com/maps/search/?api=1&query=U+Fleků+Prague) (500년 역사의 프라하에서 가장 오래된 양조장 레스토랑. 흑맥주 일품)
 * **15:00 ~ 18:00**: 블타바 강변을 따라 산책하거나, 댄싱 하우스 배경으로 사진 촬영. 체코 화가 알폰스 무하 박물관 관람 추천.
 * **18:00 ~ 22:00**: 저녁 식사 후 프라하 특유의 문화인 언더그라운드 **재즈 바** 방문 (예: Reduta Jazz Club, AghaRTA). 라이브 음악과 함께 프라하의 낭만적인 밤 마무리.
+  * 🍽️ **추천 식당**: [로칼(Lokál Dlouhááá)](https://www.google.com/maps/search/?api=1&query=Lokál+Dlouhááá+Prague) (현지인들이 가장 사랑하는 왁자지껄한 펍. 스비치코바 훌륭함)
 * 💡 **Tip**: 유명 재즈 클럽은 인기가 많아 며칠 전 미리 예매하거나 오픈 시간에 맞춰 가야 좋은 자리를 잡을 수 있습니다.
 
 ### 📍 9/14 (월) 마지막 산책 및 출국
 * **07:00 ~ 09:00**: 기상 및 조식.
 * **09:00 ~ 12:00**: 호텔 체크아웃 후 짐 보관. 세상에서 가장 아름다운 도서관 중 하나인 스트라호프 수도원을 방문하거나, 페트린 타워에 올라 프라하의 붉은 지붕들을 마지막으로 눈에 담기.
 * **12:00 ~ 14:00**: 시내에서 마지막 오찬.
+  * 🍽️ **추천 카페/식당**: [카페 루브르(Café Louvre)](https://www.google.com/maps/search/?api=1&query=Café+Louvre+Prague) (아인슈타인과 카프카의 단골 카페, 고급스럽고 여유로운 분위기)
 * **14:00 ~ 16:00**: 호텔로 돌아와 짐을 찾고 프라하 바츨라프 하벨 국제공항(PRG)으로 이동.
   * 🚕 **이동 방법 (호텔 ➡️ 프라하 공항)**:
     * 캐리어가 있으므로 볼트(Bolt)나 우버(Uber)를 호출하여 이동하는 것을 추천합니다. (약 30~40분 소요, 500~600 CZK 내외).
@@ -76,6 +82,11 @@
   * **[로칼 (Lokál)](https://www.google.com/maps/search/?api=1&query=Lokál+Prague)**: 프라하 곳곳에 있는 펍. 현지인들이 퇴근 후 가장 많이 찾는 신선한 필스너 우르켈 탭 하우스.
   * **[우 플레쿠 (U Fleků)](https://www.google.com/maps/search/?api=1&query=U+Fleků+Prague)**: 500년 넘는 역사를 자랑하는 프라하에서 가장 오래된 양조장 겸 식당. 흑맥주와 악사들의 연주가 매력적.
   * **[브 콜코브네 (V Kolkovně)](https://www.google.com/maps/search/?api=1&query=V+Kolkovně+Prague)**: 꼴레뇨와 필스너가 맛있는 분위기 좋은 정통 체코 펍.
+  * **[포크스 (Pork's)](https://www.google.com/maps/search/?api=1&query=Pork's+Prague)**: 겉바속촉 꼴레뇨(족발)가 맛있는 말라스트라나 지구 최고의 꼴레뇨 전문점.
+  * **[우 글라우비추 (U Glaubiců)](https://www.google.com/maps/search/?api=1&query=U+Glaubiců+Prague)**: 저렴한 가격에 훌륭한 체코 요리와 필스너 우르켈을 즐길 수 있는 전통 있는 펍.
+  * **[로칼 (Lokál Dlouhááá)](https://www.google.com/maps/search/?api=1&query=Lokál+Dlouhááá+Prague)**: 프라하 펍 문화의 진수. 스비치코바와 신선한 생맥주가 유명한 현지인 핫플.
+  * **[카페 루브르 (Café Louvre)](https://www.google.com/maps/search/?api=1&query=Café+Louvre+Prague)**: 1902년에 개업한 유서 깊은 카페로 카프카와 아인슈타인의 단골집.
+
 
 ## 🛍️ 필수 쇼핑 리스트
 

@@ -34,18 +34,22 @@
     * 숙소 근처 정류장에서 **1번 버스** 탑승 ➡️ 시내 중심부 'Hanuschplatz(하누쉬플라츠)' 하차 후 도보 3분 (약 10분 소요).
     * <img src="./assets/salzburg_hotel_to_oldtown_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="호텔에서 구시가지 이동 경로 지도">
   * <img src="./assets/mozart_birthplace.jpg" height="120" style="border-radius:8px; margin-top:5px;">
-* **18:00 ~ 21:00**: 잘츠자흐 강변을 따라 걸으며 일몰 감상. 저녁에는 '아우구스티너 수도원 맥주홀'에 들러 오크통에서 뽑아내는 신선한 맥주와 학센 즐기기. 멀리 불 켜진 호엔잘츠부르크 성의 완벽한 야경 감상.<br><img src="./assets/hohensalzburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **18:00 ~ 21:00**: 잘츠자흐 강변을 따라 걸으며 일몰 감상. 저녁에는 '아우구스티너 수도원 맥주홀'에 들러 신선한 맥주와 학센 즐기기.
+  * 🍽️ **추천 식당**: [아우구스티너 브로이(Augustiner Bräustübl)](https://www.google.com/maps/search/?api=1&query=Augustiner+Bräustübl+Salzburg) (수도원에서 직접 양조하는 수제 맥주홀. 여러 안주를 푸드코트처럼 골라 먹는 재미가 있음)
+* 멀리 불 켜진 호엔잘츠부르크 성의 완벽한 야경 감상.<br><img src="./assets/hohensalzburg.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 잘츠부르크 시내 대중교통과 주요 관광지 입장이 모두 무료인 '잘츠부르크 카드(24시간권)'를 중앙역이나 인포메이션에서 구매하면 매우 경제적입니다.
 
 ### 📍 9/10 (목) 미라벨 정원과 호엔잘츠부르크 성
 * **07:00 ~ 09:00**: 기상 및 조식.
 * **09:00 ~ 12:00**: 영화 '사운드 오브 뮤직'의 도레미송 배경인 **미라벨 정원** 산책. 아침 이른 시간이 꽃과 조각상 사진을 찍기에 가장 좋습니다.<br><img src="./assets/mirabell.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * **12:00 ~ 14:00**: 구시가지로 넘어와 점심 식사 후 명물 디저트인 '잘츠부르거 노케를(수플레)' 맛보기.
+  * 🍽️ **추천 식당**: [슈테른브로이(Sternbräu)](https://www.google.com/maps/search/?api=1&query=Sternbräu+Salzburg) (정통 오스트리아 요리를 즐길 수 있는 대형 비어가든 레스토랑), [발칸 그릴 발터(Balkan Grill Walter)](https://www.google.com/maps/search/?api=1&query=Balkan+Grill+Walter+Salzburg) (간단한 점심으로 좋은 게트라이데 거리의 전설적인 보스나 핫도그)
 * **14:00 ~ 17:00**: 케이블카(푸니쿨라)를 타고 **호엔잘츠부르크 성**에 등반. 성 내부 무기고 등을 관람하고, 잘츠부르크 시내와 알프스 만년설이 어우러진 최고의 파노라마 절경 감상.
   * 🚶‍♂️🚡 **이동 방법 (구시가지 ➡️ 호엔잘츠부르크 성)**:
     * 카피텔 광장(Kapitelplatz)에서 페스퉁스가세(Festungsgasse) 길을 따라 도보 이동 ➡️ **푸니쿨라(Festungsbahn)** 탑승장 도착 ➡️ 1분 만에 성벽 위로 수직 상승.
     * <img src="./assets/salzburg_oldtown_to_fortress_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="구시가지에서 호엔잘츠부르크 성 이동 경로 지도">
 * **17:00 ~ 20:00**: 잘츠부르크 대성당과 레지덴츠 광장 산책 후 여유로운 저녁 식사.
+  * 🍽️ **추천 식당**: [장크트 페터 스티프츠쿨리나리움(St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium) (유럽에서 가장 오래된 레스토랑. 모차르트 디너쇼를 보며 우아한 식사 가능)
 * 💡 **Tip**: 호엔잘츠부르크 성의 야외 카페테리아에서 커피 한 잔을 마시며 내려다보는 시내 전경이 예술입니다.
 
 ### 📍 9/11 (금) 프라하로 이동 전 오전
@@ -65,6 +69,8 @@
   * **[슈테른브로이 (Sternbräu)](https://www.google.com/maps/search/?api=1&query=Sternbräu+Salzburg)**: 정통 오스트리아 요리부터 맥주까지 아우르는 크고 쾌적한 비어 가든 겸 레스토랑.
   * **[발칸 그릴 발터 (Balkan Grill Walter)](https://www.google.com/maps/search/?api=1&query=Balkan+Grill+Walter+Salzburg)**: 게트라이데 거리에 숨어있는 70년 전통의 원조 보스나(소시지 핫도그) 맛집.
   * **[카페 토마셀리 (Café Tomaselli)](https://www.google.com/maps/search/?api=1&query=Café+Tomaselli+Salzburg)**: 오스트리아에서 가장 오래된 카페이자 모차르트의 단골 카페.
+  * **[장크트 페터 스티프츠쿨리나리움 (St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium)**: 기원후 803년부터 운영된 유럽 최고(最古)의 레스토랑. 고급스러운 코스 요리와 모차르트 디너쇼.
+
 
 ## 🛍️ 필수 쇼핑 리스트
 
