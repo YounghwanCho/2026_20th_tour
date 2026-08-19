@@ -6,7 +6,7 @@
 
 여행 동선과 맞물려 방문하기 좋은 핵심 관광지(파란색 이름표)와 추천 식당(빨간색 번호), 로컬 펍/주류(보라색 번호)입니다. 지도 번호는 아래 설명의 번호와 일치합니다.
 
-<a href="./assets/prague_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
+<a href="./assets/maps/prague_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
   <img src="./assets/prague_food_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:800px;" alt="프라하 미식 지도">
 </a>
 
