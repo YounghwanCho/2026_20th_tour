@@ -1,12 +1,10 @@
 # 🇦🇹 잘츠부르크 - 미식, 주류 & 쇼핑 가이드
 
-잘츠부르크는 모차르트와 사운드 오브 뮤직의 낭만뿐만 아니라, 알프스의 청정수로 빚어낸 훌륭한 맥주와 짭짤한 오스트리아 전통 요리가 일품인 도시입니다.
-
 ---
 
 ## 🗺️ 한눈에 보는 미식 & 관광 지도
 
-여행 동선과 맞물려 방문하기 좋은 핵심 관광지(파란색)와 추천 식당(빨간색), 그리고 카페/주류 특화 공간(보라색)의 위치입니다.
+지도 속 번호는 아래 설명의 번호와 일치합니다.
 
 <a href="./assets/salzburg_map_interactive.html" target="_blank" title="인터랙티브 지도로 열기">
   <img src="./assets/salzburg_food_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:800px;" alt="잘츠부르크 미식 지도">
@@ -15,52 +13,35 @@
 ---
 
 ## 🍽️ 잘츠부르크 필수 전통 음식
-
-* **잘츠부르거 노케를 (Salzburger Nockerl)**: 잘츠부르크를 둘러싼 눈 덮인 세 개의 산봉우리를 형상화한 거대하고 폭신폭신한 수플레 디저트. 입에 넣자마자 솜사탕처럼 사르르 녹아내리는 달콤함이 일품입니다.
-* **보스나 (Bosna)**: 구운 바삭한 빵 사이에 짭짤한 브라트부어스트(소시지), 생양파, 그리고 특제 카레 가루를 듬뿍 뿌린 잘츠부르크식 핫도그. 출출할 때 최고의 길거리 간식입니다.
-* **슈바인스학세 (Schweinshaxe) & 프레첼**: 겉은 바삭하고 속은 촉촉하게 구워낸 족발 요리로 맥주와 환상적인 궁합을 자랑합니다.
+* **잘츠부르거 노케를 (Salzburger Nockerl)**: 눈 덮인 산봉우리를 형상화한 거대한 수플레 디저트. 
+* **보스나 (Bosna)**: 카레 가루를 뿌린 잘츠부르크식 핫도그.
 
 ---
 
 ## 🥩 추천 레스토랑 & 디저트 카페
 
-모든 식당 이름의 링크를 클릭하시면 구글 맵(Google Maps)으로 이동합니다.
-
 ### 1. 현지인과 관광객 모두가 사랑하는 맛집
-* **[슈테른브로이 (Sternbräu)](https://www.google.com/maps/search/?api=1&query=Sternbräu+Salzburg)**
-  * **특징**: 모차르트도 생전에 자주 방문했다는 기록이 있는 유서 깊고 거대한 비어가든 레스토랑. 날씨가 좋을 땐 밤나무가 우거진 야외 정원에서 식사하기 최고입니다.
-  * **추천 메뉴**: 잘츠부르거 노케를(수플레), 슈니첼, 굴라시.
-* **[발칸 그릴 발터 (Balkan Grill Walter)](https://www.google.com/maps/search/?api=1&query=Balkan+Grill+Walter+Salzburg)**
-  * **특징**: 게트라이데 거리의 좁은 골목 틈새에 숨어있는 70년 전통의 원조 보스나(핫도그) 맛집. 현지인들도 항상 줄을 서서 먹는 전설적인 곳입니다.
-* **[장크트 페터 스티프츠쿨리나리움 (St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium)**
-  * **특징**: 기원후 803년에 문을 열어 **유럽에서 가장 오래된 레스토랑**으로 기네스북에 등재된 곳. 동굴을 파서 만든 고풍스러운 인테리어가 압도적이며, 저녁에는 모차르트 시대 의상을 입은 연주자들의 라이브 공연을 보며 정찬 코스 요리를 즐기는 '모차르트 디너 콘서트'가 유명합니다.
+* **[[6] 슈테른브로이 (Sternbräu)](https://www.google.com/maps/search/?api=1&query=Sternbräu+Salzburg)**
+  * **특징**: 모차르트도 자주 방문했다는 유서 깊은 비어가든 레스토랑.
+* **[[7] 발칸 그릴 발터 (Balkan Grill Walter)](https://www.google.com/maps/search/?api=1&query=Balkan+Grill+Walter+Salzburg)**
+  * **특징**: 70년 전통의 원조 보스나(핫도그) 맛집. 현지인들도 항상 줄 서서 먹는 전설적인 곳.
+* **[[8] 장크트 페터 스티프츠쿨리나리움 (St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium)**
+  * **특징**: 기원후 803년에 문을 연 '유럽에서 가장 오래된 레스토랑'. '모차르트 디너 콘서트'가 유명합니다.
 
 ### 2. 역사적인 디저트 카페
-* **[카페 토마셀리 (Café Tomaselli)](https://www.google.com/maps/search/?api=1&query=Café+Tomaselli+Salzburg)**
-  * **특징**: 오스트리아에서 가장 오래된 카페이자 모차르트의 단골 카페로 유명합니다. 은쟁반에 담겨 나오는 멜란지 커피와 전통 케이크 한 조각의 여유를 즐겨보세요.
+* **[[9] 카페 토마셀리 (Café Tomaselli)](https://www.google.com/maps/search/?api=1&query=Café+Tomaselli+Salzburg)**
+  * **특징**: 오스트리아에서 가장 오래된 카페이자 모차르트 단골 카페.
+* **[[10] 카페 퓌르스트 (Café Fürst)](https://www.google.com/maps/search/?api=1&query=Café+Fürst+Salzburg)**
+  * **특징**: 은색 바탕에 파란 글씨가 인쇄된 '오리지널 수제 모차르트 초콜릿'의 유일한 판매처.
 
 ---
 
-## 🍺 수도원 맥주와 양조장, 주류 특화 경험 (Bars & Drinks)
+## 🍺 수도원 맥주와 양조장 경험 (Bars & Drinks)
 
-잘츠부르크는 뮌헨만큼이나 맥주에 진심인 도시입니다. 물이 맑아 맥주 맛이 기가 막힙니다.
-
-* **[아우구스티너 브로이 (Augustiner Bräustübl)](https://www.google.com/maps/search/?api=1&query=Augustiner+Bräustübl+Salzburg)**
-  * **특징**: 1621년부터 수도사들이 직접 양조해 온 오스트리아 최대 규모의 수도원 비어홀. 
-  * **경험 방법**: 입장 후 선반에서 커다란 도자기 머그잔을 골라 직접 찬물에 씻은 뒤, 계산대로 가서 티켓을 사고 오크통에서 갓 뽑아내는 신선한 맥주를 받아오는 시스템입니다. 긴 복도를 따라 늘어선 상점(푸드코트)에서 학센, 소시지, 프레첼, 무채 샐러드 등을 따로 사 와서 거대한 야외 정원에서 다 같이 왁자지껄하게 즐기는 문화가 최고입니다.
-* **[슈티글 양조장 (Stiegl-Brauwelt)](https://www.google.com/maps/search/?api=1&query=Stiegl-Brauwelt+Salzburg)**
-  * **특징**: 잘츠부르크를 대표하는 빨간 계단 로고의 국민 맥주 '슈티글(Stiegl)'의 본거지. 양조장 투어 시설이 엄청나게 잘 되어 있으며, 투어 후 제공되는 샘플러 테이스팅과 레스토랑에서의 퀄리티 높은 식사(맥주 굴라시 등)가 훌륭합니다. 맥주 애호가라면 1순위 목적지!
-
----
-
-## 🛍️ 필수 쇼핑 리스트
-
-1. **오리지널 모차르트 쿠겔 (Original Salzburger Mozartkugel)**
-  * **설명**: 시중에 널린 빨간색/금색 모차르트 초콜릿은 공장제 아류작입니다. **은색 바탕에 파란색 글씨**가 인쇄된 포장지만이 수제 원조(Original)이며, 구시가지에 있는 **[카페 퓌르스트(Café Fürst)](https://www.google.com/maps/search/?api=1&query=Café+Fürst+Salzburg)**에서만 살 수 있습니다. 마지팬과 피스타치오, 누가, 초콜릿의 조화가 환상적인 최고의 선물입니다.
-2. **잘츠부르크 소금 (Salz)**
-  * **설명**: '소금(Salz)의 성(Burg)'이라는 도시 이름답게 암염(돌소금)이 특산품입니다. 트러플 소금, 갈릭 소금 등 향신료가 가미된 고급 소금은 고기를 구울 때 완벽하며, 요리를 좋아하는 분들께 가볍고 실용적인 선물로 최고입니다.
-3. **전통 의상 (Trachten) 및 소품**
-  * **설명**: 잘츠부르크 구시가지에는 알프스 지역 전통 의상인 던들(Dirndl)과 레더호젠(Lederhosen)을 파는 숍이 많습니다. 옷 자체는 비싸지만, 양모로 만든 귀여운 모자나 액세서리는 독특한 기념품이 됩니다.
+* **[[11] 아우구스티너 브로이 (Augustiner Bräustübl)](https://www.google.com/maps/search/?api=1&query=Augustiner+Bräustübl+Salzburg)**
+  * **특징**: 1621년부터 수도사들이 직접 양조해 온 오스트리아 최대 규모의 비어홀. 도자기 머그잔에 갓 뽑은 맥주와 푸드코트 안주를 즐길 수 있습니다.
+* **[[12] 슈티글 양조장 (Stiegl-Brauwelt)](https://www.google.com/maps/search/?api=1&query=Stiegl-Brauwelt+Salzburg)**
+  * **특징**: 잘츠부르크 국민 맥주 '슈티글'의 본거지. 양조장 투어와 테이스팅 코스가 훌륭합니다.
 
 ---
 [⬅️ 잘츠부르크 일정으로 돌아가기](./Salzburg.md)
