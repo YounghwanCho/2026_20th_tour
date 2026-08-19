@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c939d5f22f3d68f7fd7a86a7e5e9e405 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_c939d5f22f3d68f7fd7a86a7e5e9e405" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c939d5f22f3d68f7fd7a86a7e5e9e405 = L.map(
+                "map_c939d5f22f3d68f7fd7a86a7e5e9e405",
+                {
+                    center: [48.205, 16.368],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_da203bf1991f5e237d52fbe9b1479650 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_da203bf1991f5e237d52fbe9b1479650.addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var marker_ac5b99787f5c4e005f9a28a4342f121e = L.marker(
+                [48.2107, 16.3683],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_f27c1225f394beebf93ee85c5067e5eb = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003ePark Hyatt Vienna\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_ac5b99787f5c4e005f9a28a4342f121e.setIcon(div_icon_f27c1225f394beebf93ee85c5067e5eb);
+            
+    
+            var marker_cce34de9ebd946947a33ddb0d3e66d12 = L.marker(
+                [48.2085, 16.3731],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_14eb5dfffba91afb36dfa5565abf455b = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\uc288\ud14c\ud310 \ub300\uc131\ub2f9\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_cce34de9ebd946947a33ddb0d3e66d12.setIcon(div_icon_14eb5dfffba91afb36dfa5565abf455b);
+            
+    
+            var marker_90f73e91763de355481461d4538b1399 = L.marker(
+                [48.1848, 16.3122],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_8366f8511a48f91fe6ced40d1a984b55 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\uc1e4\ube0c\ub8ec \uad81\uc804\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_90f73e91763de355481461d4538b1399.setIcon(div_icon_8366f8511a48f91fe6ced40d1a984b55);
+            
+    
+            var marker_e406a4b98c1d777812ec3087e654838a = L.marker(
+                [48.1915, 16.3809],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_7e3d322c4fed18581fdb5b56b90478e8 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\ubca8\ubca0\ub370\ub808 \uad81\uc804\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_e406a4b98c1d777812ec3087e654838a.setIcon(div_icon_7e3d322c4fed18581fdb5b56b90478e8);
+            
+    
+            var marker_d6a713c0ddb1ebdd0a80e5acb0c111d7 = L.marker(
+                [48.2065, 16.3653],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_63045c894a5f4e5af909db0b2a49cb84 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\ud638\ud504\ubd80\ub974\ud06c \uc655\uad81\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_d6a713c0ddb1ebdd0a80e5acb0c111d7.setIcon(div_icon_63045c894a5f4e5af909db0b2a49cb84);
+            
+    
+            var marker_e87ba64030d7ff00a91dcf4023096b02 = L.marker(
+                [48.2038, 16.3618],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_00aac960d41b8628cb1d549f0b25d0df = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\ubbf8\uc220\uc0ac \ubc15\ubb3c\uad00\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_e87ba64030d7ff00a91dcf4023096b02.setIcon(div_icon_00aac960d41b8628cb1d549f0b25d0df);
+            
+    
+            var marker_0b82cdc59bf3b83eff8d876c208e9ff5 = L.marker(
+                [48.203, 16.369],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_f2fb88c0e3e4294fb65ab49dc0431298 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"display: flex; align-items: center; white-space: nowrap; transform: translate(-6px, -6px);\"\u003e\n            \u003cdiv style=\"\n                background-color: #3388ff;\n                border-radius: 50%;\n                width: 12px;\n                height: 12px;\n                border: 2px solid white;\n                box-shadow: 0 0 4px rgba(0,0,0,0.5);\n                margin-right: 4px;\n                flex-shrink: 0;\n            \"\u003e\u003c/div\u003e\n            \u003cdiv style=\"\n                background-color: rgba(255, 255, 255, 0.9);\n                padding: 2px 4px;\n                border-radius: 3px;\n                font-size: 11px;\n                font-weight: bold;\n                color: #333;\n                border: 1px solid #999;\n                box-shadow: 0 0 4px rgba(0,0,0,0.3);\n            \"\u003e\ube44\uc5d4\ub098 \uc624\ud398\ub77c \uadf9\uc7a5\u003c/div\u003e\n        \u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+                marker_0b82cdc59bf3b83eff8d876c208e9ff5.setIcon(div_icon_f2fb88c0e3e4294fb65ab49dc0431298);
+            
+    
+            var marker_1aded14a3ed667d7d1b693851e9e1600 = L.marker(
+                [48.2096, 16.3748],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_410b5d69db353573b592db47ada7f8f1 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(230, 57, 70, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e1\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_1aded14a3ed667d7d1b693851e9e1600.bindTooltip(
+                `<div>
+                     [1] Figlmüller
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1aded14a3ed667d7d1b693851e9e1600.setIcon(div_icon_410b5d69db353573b592db47ada7f8f1);
+            
+    
+            var marker_f5863901d5d5af356b42de115f0a3e9f = L.marker(
+                [48.2084, 16.3789],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_61560ff5b5601d816d468d5d952392c4 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(230, 57, 70, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e2\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_f5863901d5d5af356b42de115f0a3e9f.bindTooltip(
+                `<div>
+                     [2] Plachutta
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f5863901d5d5af356b42de115f0a3e9f.setIcon(div_icon_61560ff5b5601d816d468d5d952392c4);
+            
+    
+            var marker_690b4e3f46c47f78c603eda1dda9c444 = L.marker(
+                [48.2052, 16.3747],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_f50d45bd24e8af99865c33177e708c07 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(230, 57, 70, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e3\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_690b4e3f46c47f78c603eda1dda9c444.bindTooltip(
+                `<div>
+                     [3] Ribs of Vienna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_690b4e3f46c47f78c603eda1dda9c444.setIcon(div_icon_f50d45bd24e8af99865c33177e708c07);
+            
+    
+            var marker_66203e789731b423d4c2bbdd754dfc82 = L.marker(
+                [48.2041, 16.3686],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_12b512f7aa38cd28b7b5e3e3e679a2f1 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(230, 57, 70, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e4\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_66203e789731b423d4c2bbdd754dfc82.bindTooltip(
+                `<div>
+                     [4] Bitzinger
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_66203e789731b423d4c2bbdd754dfc82.setIcon(div_icon_12b512f7aa38cd28b7b5e3e3e679a2f1);
+            
+    
+            var marker_da301b83178e15ec692c4b22860eee96 = L.marker(
+                [48.2104, 16.3654],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_dbb0f9308879b53471a67ab2779b3b6b = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(155, 93, 229, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e5\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_da301b83178e15ec692c4b22860eee96.bindTooltip(
+                `<div>
+                     [5] Café Central
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_da301b83178e15ec692c4b22860eee96.setIcon(div_icon_dbb0f9308879b53471a67ab2779b3b6b);
+            
+    
+            var marker_b16ec2078db94fb86ba24423799a8f19 = L.marker(
+                [48.2038, 16.3695],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_960b4d8eaa3792e690bb7a3ce2474095 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(155, 93, 229, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e6\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_b16ec2078db94fb86ba24423799a8f19.bindTooltip(
+                `<div>
+                     [6] Café Sacher
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b16ec2078db94fb86ba24423799a8f19.setIcon(div_icon_960b4d8eaa3792e690bb7a3ce2474095);
+            
+    
+            var marker_9deafd5ebf148125dc2a50e2c03441f6 = L.marker(
+                [48.2038, 16.3618],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_6407965cab1787d92caa3a22254b7a5c = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(155, 93, 229, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e7\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_9deafd5ebf148125dc2a50e2c03441f6.bindTooltip(
+                `<div>
+                     [7] Cafe-Restaurant im KHM
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9deafd5ebf148125dc2a50e2c03441f6.setIcon(div_icon_6407965cab1787d92caa3a22254b7a5c);
+            
+    
+            var marker_7c4888c5683ad7f0c3aa1be7f7059407 = L.marker(
+                [48.2037, 16.373],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_f3d83951688491d807113c6fe600ce74 = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(155, 93, 229, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e8\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_7c4888c5683ad7f0c3aa1be7f7059407.bindTooltip(
+                `<div>
+                     [8] 1516 Brewing Co.
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7c4888c5683ad7f0c3aa1be7f7059407.setIcon(div_icon_f3d83951688491d807113c6fe600ce74);
+            
+    
+            var marker_1542074e261fc8e6679f5ca6333081c5 = L.marker(
+                [48.2562, 16.3533],
+                {
+}
+            ).addTo(map_c939d5f22f3d68f7fd7a86a7e5e9e405);
+        
+    
+            var div_icon_458c335c9ddde40f31190d2dd3057aaf = L.divIcon({
+  "html": "\n        \u003cdiv style=\"\n            background-color: rgba(155, 93, 229, 0.85);\n            color: white;\n            border-radius: 50%;\n            width: 24px;\n            height: 24px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            border: 2px solid white;\n            box-shadow: 0 0 4px rgba(0,0,0,0.5);\n            font-size: 12px;\n            font-family: sans-serif;\n            transform: translate(-12px, -12px);\n        \"\u003e9\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+            marker_1542074e261fc8e6679f5ca6333081c5.bindTooltip(
+                `<div>
+                     [9] Mayer am Pfarrplatz
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1542074e261fc8e6679f5ca6333081c5.setIcon(div_icon_458c335c9ddde40f31190d2dd3057aaf);
+            
+</script>
+</html>
