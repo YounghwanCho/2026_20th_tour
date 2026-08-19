@@ -25,7 +25,7 @@
     * **경로**: 공항 출발 ➡️ **Kálvin tér(칼빈 광장)** 또는 **Astoria** 하차 (호텔까지 도보 5분 거리)
     * <a href="https://www.google.com/maps/dir/?api=1&origin=Budapest+Airport&destination=Párisi+Udvar+Hotel+Budapest&travelmode=transit" target="_blank"><img src="./assets/budapest_100e_bus_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 구글맵 캡처"></a>
       <details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_100e_bus_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="100E 버스 노선도 AI생성본"></details>
-* **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사. (호텔 근처 바치 거리(Váci utca) 번화가에서 간단하게 식사)
+* **19:30 ~ 20:30**: 호텔 체크인 및 늦은 저녁 식사. (호텔 근처 바치 거리(Váci utca) 번화가에서 간단하게 식사 or 마트? City SPAR)
 * **20:30 ~ 21:30**: **세체니 다리** 도보 횡단. (호텔에서 다리까지 도보 15분). 다리를 건너며 도나우 강과 부다 성의 완벽한 야경 감상.<br><a href="https://www.google.com/maps/dir/?api=1&origin=Párisi+Udvar+Hotel+Budapest&destination=Széchenyi+Chain+Bridge&travelmode=walking" target="_blank"><img src="./assets/budapest_day1_night_walk_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 구글맵 캡처"></a><br><details><summary style="cursor:pointer; color:#0366d6;"><b>다른 맵</b></summary><img src="./assets/budapest_day1_night_walk_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="야경 감상 도보 경로 지도 AI생성본"></details><img src="./assets/szechenyi_bridge.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 비행 탑승으로 피곤할 수 있으니 첫날 야경 일정은 컨디션에 따라 가볍게 둘러보는 것을 추천합니다. 호텔 1층 '파리시 파사쥬(Párisi Passage)' 카페의 화려한 건축미도 체크인 시 놓치지 마세요.
 
