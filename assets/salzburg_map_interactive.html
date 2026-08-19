@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6b68feff46d9fb1e35e36108194927e5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6b68feff46d9fb1e35e36108194927e5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6b68feff46d9fb1e35e36108194927e5 = L.map(
+                "map_6b68feff46d9fb1e35e36108194927e5",
+                {
+                    center: [47.8, 13.04],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a1ad45d70c1071567e41fc7ba8b2e6f4 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a1ad45d70c1071567e41fc7ba8b2e6f4.addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var marker_b2a686ac3d1fbf7cddc242aa5bd5ac3e = L.marker(
+                [47.7884, 13.0336],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_9d38d47fc42dd5a2350190dab144cd33 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_b2a686ac3d1fbf7cddc242aa5bd5ac3e.bindTooltip(
+                `<div>
+                     Villa Verde (숙소)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b2a686ac3d1fbf7cddc242aa5bd5ac3e.setIcon(icon_9d38d47fc42dd5a2350190dab144cd33);
+            
+    
+            var marker_7bc5664cdf8ae36469d7191f074a630b = L.marker(
+                [47.8, 13.0435],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_90ce69df20b279e29e5b3fb978cedd10 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_7bc5664cdf8ae36469d7191f074a630b.bindTooltip(
+                `<div>
+                     모차르트 생가
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7bc5664cdf8ae36469d7191f074a630b.setIcon(icon_90ce69df20b279e29e5b3fb978cedd10);
+            
+    
+            var marker_50db1b36679bcfe5612f9e7dd6c6ce52 = L.marker(
+                [47.8055, 13.0416],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_0847fbcc29608af2f0249a40f72f6c1e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_50db1b36679bcfe5612f9e7dd6c6ce52.bindTooltip(
+                `<div>
+                     미라벨 정원
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_50db1b36679bcfe5612f9e7dd6c6ce52.setIcon(icon_0847fbcc29608af2f0249a40f72f6c1e);
+            
+    
+            var marker_ef7c9b6f23813d6231ff30ad14d6006e = L.marker(
+                [47.795, 13.047],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_e90c0924359c3e2d17ead1541a99c109 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_ef7c9b6f23813d6231ff30ad14d6006e.bindTooltip(
+                `<div>
+                     호엔잘츠부르크 성
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ef7c9b6f23813d6231ff30ad14d6006e.setIcon(icon_e90c0924359c3e2d17ead1541a99c109);
+            
+    
+            var marker_ec2e5dbfe41fc56fcccf17efc9c71e81 = L.marker(
+                [47.7979, 13.0465],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_cca96cd1291d5513ace3b6d9475b7d71 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_ec2e5dbfe41fc56fcccf17efc9c71e81.bindTooltip(
+                `<div>
+                     잘츠부르크 대성당
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ec2e5dbfe41fc56fcccf17efc9c71e81.setIcon(icon_cca96cd1291d5513ace3b6d9475b7d71);
+            
+    
+            var marker_d1e8c1078250a9e1f9216f90ffaad48a = L.marker(
+                [47.7997, 13.0422],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_3ac85ff11f4ebaf2c310539273493445 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_d1e8c1078250a9e1f9216f90ffaad48a.bindTooltip(
+                `<div>
+                     Sternbräu (슈테른브로이)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d1e8c1078250a9e1f9216f90ffaad48a.setIcon(icon_3ac85ff11f4ebaf2c310539273493445);
+            
+    
+            var marker_5b5113aad9e54862e3b583e99ba1b407 = L.marker(
+                [47.7999, 13.0428],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_204d48e6803f774544109ebac3819f34 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_5b5113aad9e54862e3b583e99ba1b407.bindTooltip(
+                `<div>
+                     Balkan Grill Walter
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5b5113aad9e54862e3b583e99ba1b407.setIcon(icon_204d48e6803f774544109ebac3819f34);
+            
+    
+            var marker_44b91822d7c0b8b304d9cc2c77450471 = L.marker(
+                [47.7968, 13.0441],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_be356f26891d0c4c3b1c6e5ca876fc32 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_44b91822d7c0b8b304d9cc2c77450471.bindTooltip(
+                `<div>
+                     St. Peter Stiftskulinarium
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_44b91822d7c0b8b304d9cc2c77450471.setIcon(icon_be356f26891d0c4c3b1c6e5ca876fc32);
+            
+    
+            var marker_71ce1ba0206a4fb54368e7aae908a101 = L.marker(
+                [47.7995, 13.0449],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_4cedf73ec88ceb3136936049fba7a743 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_71ce1ba0206a4fb54368e7aae908a101.bindTooltip(
+                `<div>
+                     Café Tomaselli
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_71ce1ba0206a4fb54368e7aae908a101.setIcon(icon_4cedf73ec88ceb3136936049fba7a743);
+            
+    
+            var marker_0bc04041bfe876f9ffb43b77921b9f62 = L.marker(
+                [47.7996, 13.0446],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_386558b8075099becf28b8d948f0466b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_0bc04041bfe876f9ffb43b77921b9f62.bindTooltip(
+                `<div>
+                     Café Fürst (퓌르스트/초콜릿)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0bc04041bfe876f9ffb43b77921b9f62.setIcon(icon_386558b8075099becf28b8d948f0466b);
+            
+    
+            var marker_d771cc55b7c65e046b434a4e276f0ae3 = L.marker(
+                [47.8048, 13.0326],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_fe15ee37b4903fefd7442fea4146154a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_d771cc55b7c65e046b434a4e276f0ae3.bindTooltip(
+                `<div>
+                     Augustiner Bräustübl (수도원 맥주)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d771cc55b7c65e046b434a4e276f0ae3.setIcon(icon_fe15ee37b4903fefd7442fea4146154a);
+            
+    
+            var marker_3b2636242ed7e387e333fe620c799d5e = L.marker(
+                [47.7937, 13.0182],
+                {
+}
+            ).addTo(map_6b68feff46d9fb1e35e36108194927e5);
+        
+    
+            var icon_a7e501517b5b4ff5933845b546821ee5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_3b2636242ed7e387e333fe620c799d5e.bindTooltip(
+                `<div>
+                     Stiegl-Brauwelt (슈티글 양조장)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3b2636242ed7e387e333fe620c799d5e.setIcon(icon_a7e501517b5b4ff5933845b546821ee5);
+            
+</script>
+</html>

@@ -1,24 +1,87 @@
-# 🇭🇺 부다페스트 - 음식 & 쇼핑 리스트
+# 🇭🇺 부다페스트 - 미식, 주류 & 쇼핑 가이드
 
-## 🍽️ 추천 음식 & 식당
+부다페스트는 동유럽 특유의 향신료(파프리카 가루)를 사용한 매콤하고 친숙한 요리부터, 독특한 와인과 언더그라운드 펍 문화까지 미식가들을 설레게 하는 도시입니다. 
 
-* **굴라시 (Gulyás)**: 한국인의 입맛에 딱 맞는 육개장 스타일의 헝가리 전통 수프.
-* **랑고쉬 (Lángos)**: 튀긴 납작빵 위에 사워크림과 치즈를 듬뿍 얹어 먹는 길거리 간식.
-* **추천 식당 & 카페**:
-  * **[멘자 (Menza Restaurant)](https://www.google.com/maps/search/?api=1&query=Menza+Restaurant+Budapest)**: 굴라시와 오리 가슴살 스테이크가 유명한 한국인 필수 코스 식당. (예약 권장)
-  * **[키슈카쿠크 (Kiskakukk Étterem)](https://www.google.com/maps/search/?api=1&query=Kiskakukk+Étterem+Budapest)**: 1913년에 오픈한 클래식한 헝가리 식당. 거위 간(푸아그라) 요리와 굴라시가 일품.
-  * **[까마귀 식당 (VakVarjú Restaurant)](https://www.google.com/maps/search/?api=1&query=VakVarjú+Restaurant+Budapest)**: 현지인과 관광객 모두에게 인기 있는 가성비 좋고 분위기 좋은 레스토랑.
-  * **[뉴욕 카페 (New York Cafe)](https://www.google.com/maps/search/?api=1&query=New+York+Cafe+Budapest)**: 세계에서 가장 아름다운 카페. 화려한 금빛 장식 속에서 디저트 즐기기.
-  * **[젤라르토 로사 (Gelarto Rosa)](https://www.google.com/maps/search/?api=1&query=Gelarto+Rosa+Budapest)**: 성 이슈트반 대성당 앞, 아이스크림을 장미꽃 모양으로 예쁘게 빚어주는 젤라또 맛집.
-  * **[벨바로시 디스노토로스 (Belvárosi Disznótoros)](https://www.google.com/maps/search/?api=1&query=Belvárosi+Disznótoros+Budapest)**: 원하는 부위를 골라 먹는 캐주얼 로컬 고기 맛집.
-  * **[군델 레스토랑 (Gundel Cafe Patisserie Restaurant)](https://www.google.com/maps/search/?api=1&query=Gundel+Restaurant+Budapest)**: 세체니 온천 근처 헝가리를 대표하는 최고급 레스토랑.
+---
 
+## 🗺️ 한눈에 보는 미식 & 관광 지도
+
+여행 동선과 맞물려 방문하기 좋은 핵심 관광지(파란색)와 추천 식당(빨간색), 그리고 주류 특화 공간(보라색)의 위치입니다.
+
+<a href="./assets/budapest_map.html" target="_blank" title="인터랙티브 지도로 열기">
+  <img src="./assets/budapest_food_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:800px;" alt="부다페스트 미식 지도">
+</a>
+
+---
+
+## 🍽️ 헝가리 필수 전통 음식
+
+* **굴라시 (Gulyás)**: 소고기, 양파, 감자, 당근에 헝가리산 파프리카 가루를 듬뿍 넣어 끓여낸 헝가리 대표 수프입니다. 한국의 육개장이나 소고기뭇국과 놀랍도록 비슷한 맛이 나며 빵과 함께 먹으면 속이 든든해집니다.
+* **망갈리차 (Mangalica)**: 헝가리의 국보급 돼지로, 양처럼 곱슬곱슬한 털을 가졌습니다. 일반 돼지고기보다 지방이 풍부하고 고소해 '돼지고기계의 고베규'로 불립니다. 스테이크나 소시지로 꼭 맛보세요.
+* **할라슬레 (Halászlé)**: 일명 '어부의 수프'. 다뉴브 강에서 잡은 민물고기(주로 잉어)에 파프리카 가루를 넣어 끓인 매콤한 생선 스튜로, 한국의 매운탕과 결이 비슷합니다.
+* **랑고쉬 (Lángos)**: 튀긴 넓적한 밀가루 반죽 위에 마늘즙, 사워크림, 그리고 치즈를 산더미처럼 얹어 먹는 헝가리의 국민 길거리 간식입니다.
+* **퀴르퇴슈칼라치 (Kürtőskalács)**: '굴뚝빵'으로 잘 알려진 디저트. 숯불에 빙글빙글 돌려 구워 겉은 바삭하고 속은 촉촉하며 시나몬 설탕이 잔뜩 묻어 있습니다.
+
+---
+
+## 🥩 추천 레스토랑 & 디저트 카페
+
+모든 식당 이름의 링크를 클릭하시면 구글 맵(Google Maps)으로 이동합니다.
+
+### 1. 현지인과 관광객 모두가 사랑하는 로컬 식당
+* **[멘자 (Menza Restaurant)](https://www.google.com/maps/search/?api=1&query=Menza+Restaurant+Budapest)** (안드라시 거리 근처)
+  * **특징**: 70년대 레트로 공산주의 스타일을 세련되게 재해석한 인테리어가 돋보입니다. 헝가리 전통 요리를 현대적으로 깔끔하게 풀어내어 한국인들의 필수 코스로 꼽힙니다.
+  * **추천 메뉴**: 진하고 깔끔한 굴라시 수프, 부드러운 오리 가슴살 스테이크와 체리 소스. (예약 필수)
+* **[키슈카쿠크 (Kiskakukk Étterem)](https://www.google.com/maps/search/?api=1&query=Kiskakukk+Étterem+Budapest)** (마가릿 다리 인근)
+  * **특징**: 1913년에 문을 연 유서 깊은 식당으로, 고전적이고 클래식한 분위기 속에서 정통 헝가리 요리를 맛볼 수 있습니다.
+  * **추천 메뉴**: 사과를 곁들인 구운 푸아그라(거위 간), 망갈리차 스테이크.
+* **[벨바로시 디스노토로스 (Belvárosi Disznótoros)](https://www.google.com/maps/search/?api=1&query=Belvárosi+Disznótoros+Budapest)** (파리시 우드버르 호텔 도보 3분)
+  * **특징**: 현지 직장인들이 줄 서서 먹는 '푸줏간(정육점)' 콘셉트의 패스트푸드식 로컬 고기 맛집입니다. 쇼케이스에서 고기와 사이드를 고르면 즉석에서 구워줍니다.
+  * **추천 메뉴**: 구운 소시지, 오리 다리 구이, 돼지머리 고기, 머스타드와 피클 조합.
+
+### 2. 분위기와 뷰가 압도적인 레스토랑
+* **[군델 레스토랑 (Gundel Cafe Patisserie Restaurant)](https://www.google.com/maps/search/?api=1&query=Gundel+Restaurant+Budapest)** (세체니 온천 바로 옆)
+  * **특징**: 헝가리 미식의 상징이자 엘리자베스 여왕, 교황 등이 방문한 부다페스트 최고급 파인 다이닝 레스토랑입니다. 라이브 집시 음악을 들으며 식사할 수 있습니다.
+  * **추천 메뉴**: 군델 팔라친타 (호두와 럼, 초콜릿 소스를 곁들인 헝가리식 크레페).
+* **[안젤리카 레스토랑 (Angelika Étterem)](https://www.google.com/maps/search/?api=1&query=Angelika+Étterem+Budapest)** (부다 지구, 바차니 광장)
+  * **특징**: 다뉴브 강 건너편의 국회의사당이 정면으로 보이는 최고의 뷰 맛집입니다. 일몰 후 테라스에 앉아 황금빛 야경을 감상하며 우아한 다이닝을 즐기기 완벽합니다.
+* **[할라쉬바슈탸 레스토랑 (Halászbástya Étterem)](https://www.google.com/maps/search/?api=1&query=Halászbástya+Restaurant+Budapest)** (어부의 요새 내)
+  * **특징**: 어부의 요새 건축물 내부에 자리 잡은 식당으로, 헝가리 최고의 파노라마 뷰를 자랑합니다. 낭만적인 저녁 식사에 제격입니다.
+
+### 3. 디저트 & 카페
+* **[뉴욕 카페 (New York Cafe)](https://www.google.com/maps/search/?api=1&query=New+York+Cafe+Budapest)**: '세계에서 가장 아름다운 카페'라는 수식어가 붙는 곳. 궁전 같은 화려한 황금빛 인테리어와 프레스코화 속에서 커피를 마실 수 있습니다.
+* **[젤라르토 로사 (Gelarto Rosa)](https://www.google.com/maps/search/?api=1&query=Gelarto+Rosa+Budapest)**: 성 이슈트반 대성당 앞 위치. 젤라토 스페출러를 이용해 아이스크림을 정교하고 아름다운 장미꽃 모양으로 만들어주는 눈과 입이 즐거운 디저트 숍.
+* **[레테슈바르 (Budavári Rétesvár)](https://www.google.com/maps/search/?api=1&query=Budavári+Rétesvár+Budapest)**: 부다 성 골목에 숨겨진 작은 빵집으로, 얇은 반죽 안에 사과, 양귀비 씨, 체리 등을 겹겹이 채워 구워낸 헝가리 전통 파이 '슈트루델(Rétes)'이 환상적입니다.
+
+---
+
+## 🍷 맥주와 와인, 주류 특화 경험 (Bars & Drinks)
+
+헝가리는 맥주보다는 **와인의 숨겨진 강국**이며, 폐건물을 활용한 독특한 **루인 바(Ruin Bar)** 문화가 전 세계 젊은이들을 열광시킵니다.
+
+* **[카다르카 와인 바 (Kadarka Wine Bar)](https://www.google.com/maps/search/?api=1&query=Kadarka+Wine+Bar+Budapest)**
+  * **특징**: 헝가리 전역의 훌륭하고 다양한 로컬 와인을 잔 단위로 비교적 저렴하게 맛볼 수 있는 트렌디한 와인 바입니다.
+  * **Must Try**: **토카이 와인(Tokaji Aszú)**. 루이 15세가 '왕들의 와인'이라 극찬한 세계 3대 귀부 와인입니다. 달콤한 꿀과 살구 향이 폭발합니다.
+* **[심플라 케르트 (Szimpla Kert)](https://www.google.com/maps/search/?api=1&query=Szimpla+Kert+Budapest)**
+  * **특징**: 부다페스트 '루인 바'의 원조이자 가장 유명한 곳입니다. 폐공장을 뼈대만 남기고 개조하여 빈티지 가구, 그래피티, 미러볼로 채운 몽환적인 공간입니다. 여러 개의 작은 바가 모여 있어 구경하는 재미가 엄청납니다.
+* **[엘레스퇴 하즈 (Élesztőház)](https://www.google.com/maps/search/?api=1&query=Élesztőház+Budapest)**
+  * **특징**: 루인 바의 감성을 간직한 채 '크래프트 비어(수제 맥주)'에 진심인 곳입니다. 20개가 넘는 탭에서 헝가리 로컬 수제 맥주를 쏟아냅니다. 맥주 애호가라면 필수 방문!
+* **[파터 마르쿠스 (Pater Marcus Apátsági Pub)](https://www.google.com/maps/search/?api=1&query=Pater+Marcus+Budapest)**
+  * **특징**: 바차니 광장 근처, 부다 성 언덕 아래 위치한 중세 수도원 콘셉트의 벨기에 맥주 전문 펍입니다. 100여 종의 트라피스트/수도원 맥주와 맛있는 감자튀김을 제공합니다.
+* **로컬 스피릿, 우니쿰 (Unicum)**: 40여 종의 허브를 배합해 만든 헝가리의 전통 식후주. 까스활명수와 비슷한 향과 강렬한 쓴맛을 지녔으며, 현지인들은 소화제처럼 마십니다. 기회가 되면 펍에서 샷으로 한 잔 도전해 보세요!
+
+---
 
 ## 🛍️ 필수 쇼핑 리스트
 
-* **토카이 와인 (Tokaji Aszú)**: 세계 3대 귀부 와인 중 하나. 숫자가 높을수록 달콤하며 보통 5~6 puttonyos를 많이 구매함.
-* **이노레우마 크림 (Inno Rheuma)**: 일명 '악마의 발톱 크림'. 관절염과 근육통에 효과가 좋아 부모님 선물로 인기 최고.
-* **제라니움 크림 / 파프리카 가루**: 헝가리 특산품. 파프리카 가루는 굴라시의 핵심 재료로 요리를 좋아하는 분들께 추천.
+1. **토카이 아수 와인 (Tokaji Aszú)**
+   * **설명**: 헝가리 쇼핑 1순위. 라벨에 적힌 푸토뇨스(Puttonyos) 숫자가 높을수록 당도와 가격이 높습니다 (일반적으로 5~6 Puttonyos 추천). 와인 숍이나 마트(SPAR 등)에서 구매 가능합니다.
+2. **이노레우마 크림 (Inno Rheuma)**
+   * **설명**: 일명 '악마의 발톱 크림'. 관절염과 근육통에 탁월한 효과가 있어 한국 여행객들이 드럭스토어(DM, Rossmann)에서 싹쓸이하는 부모님 효도 선물 1위입니다. (초록색이 가장 기본)
+3. **파프리카 가루 & 튜브 페이스트**
+   * **설명**: 헝가리 요리의 핵심. 중앙 시장(Nagy Vásárcsarnok)이나 마트에서 예쁜 틴케이스에 담긴 파프리카 가루(달콤한 맛 Édes / 매운 맛 Csípős)나, 굴라시 튜브(Gulyáskrém)를 저렴하게 살 수 있습니다. 요리를 좋아하는 분께 완벽한 기념품입니다.
+4. **제로비탈 뷰티 크림 (Gerovital)**
+   * **설명**: 루마니아 브랜드지만 헝가리에서 많이 사 가는 안티에이징 크림입니다. 가격 대비 보습과 주름 개선 효과가 뛰어나 입소문이 자자합니다.
 
 ---
 [⬅️ 부다페스트 일정으로 돌아가기](./Budapest.md)

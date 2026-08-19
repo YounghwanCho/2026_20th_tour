@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f7951cbd02a56e6133369203dc4c0d53 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_f7951cbd02a56e6133369203dc4c0d53" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_f7951cbd02a56e6133369203dc4c0d53 = L.map(
+                "map_f7951cbd02a56e6133369203dc4c0d53",
+                {
+                    center: [50.085, 14.415],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f4bb4dfa15a3504691f1a304275907cd = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f4bb4dfa15a3504691f1a304275907cd.addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var marker_d23b7b35ce2b3fd79ce057602beb83a8 = L.marker(
+                [50.0864, 14.4312],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_628e1463fe46de01ddf4af498f5aff2e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_d23b7b35ce2b3fd79ce057602beb83a8.bindTooltip(
+                `<div>
+                     Andaz Prague (숙소)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d23b7b35ce2b3fd79ce057602beb83a8.setIcon(icon_628e1463fe46de01ddf4af498f5aff2e);
+            
+    
+            var marker_b6adbbb3f7625b891496a0b512c6a937 = L.marker(
+                [50.087, 14.4205],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_07671e972ed812421f4dee8b920dbdab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_b6adbbb3f7625b891496a0b512c6a937.bindTooltip(
+                `<div>
+                     구시가 천문시계
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b6adbbb3f7625b891496a0b512c6a937.setIcon(icon_07671e972ed812421f4dee8b920dbdab);
+            
+    
+            var marker_954abaf379f16caa6950c92c3c1587ae = L.marker(
+                [50.0865, 14.4114],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_0fea684dff3747abd9936a580ab4622d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_954abaf379f16caa6950c92c3c1587ae.bindTooltip(
+                `<div>
+                     카를교
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_954abaf379f16caa6950c92c3c1587ae.setIcon(icon_0fea684dff3747abd9936a580ab4622d);
+            
+    
+            var marker_4d3d3c46d44b865f70841a4cd02fda42 = L.marker(
+                [50.0908, 14.4014],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_2ebb5acde252727de55d7ace05859586 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_4d3d3c46d44b865f70841a4cd02fda42.bindTooltip(
+                `<div>
+                     프라하 성
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4d3d3c46d44b865f70841a4cd02fda42.setIcon(icon_2ebb5acde252727de55d7ace05859586);
+            
+    
+            var marker_73bfca42b3ef299b4547303a5e0ade9a = L.marker(
+                [50.0862, 14.4069],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_4de551991348a09c697eb0c80a431822 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_73bfca42b3ef299b4547303a5e0ade9a.bindTooltip(
+                `<div>
+                     존 레논 벽
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_73bfca42b3ef299b4547303a5e0ade9a.setIcon(icon_4de551991348a09c697eb0c80a431822);
+            
+    
+            var marker_895af09d4db14890597820f187c7704f = L.marker(
+                [50.09, 14.4215],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_9a95d81ee165a9efc9846ac4c466ffe7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_895af09d4db14890597820f187c7704f.bindTooltip(
+                `<div>
+                     V Kolkovně (브 콜코브네)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_895af09d4db14890597820f187c7704f.setIcon(icon_9a95d81ee165a9efc9846ac4c466ffe7);
+            
+    
+            var marker_eb49683a4f45b507575c17224758a720 = L.marker(
+                [50.0872, 14.4079],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_775c560c1bcd5979efaefec5bbf58597 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_eb49683a4f45b507575c17224758a720.bindTooltip(
+                `<div>
+                     Pork's (포크스/꼴레뇨)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_eb49683a4f45b507575c17224758a720.setIcon(icon_775c560c1bcd5979efaefec5bbf58597);
+            
+    
+            var marker_791e52885a93a10e22a6e172af774460 = L.marker(
+                [50.0833, 14.4277],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_8efc77d0df4243b5bdd0ffc914b1a97f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_791e52885a93a10e22a6e172af774460.bindTooltip(
+                `<div>
+                     Kantýna (칸티나/고기)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_791e52885a93a10e22a6e172af774460.setIcon(icon_8efc77d0df4243b5bdd0ffc914b1a97f);
+            
+    
+            var marker_a481b8d2ae29e42097b3b6521dfc21bc = L.marker(
+                [50.0899, 14.4206],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_0fa0205c4f95559ad734001618a07699 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_a481b8d2ae29e42097b3b6521dfc21bc.bindTooltip(
+                `<div>
+                     Krčma (크르츠마)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a481b8d2ae29e42097b3b6521dfc21bc.setIcon(icon_0fa0205c4f95559ad734001618a07699);
+            
+    
+            var marker_b6b73fe70f6630b88e70363c6025b628 = L.marker(
+                [50.0818, 14.4187],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_b4d9d932b7084273f458db6f9e2a7bd5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_b6b73fe70f6630b88e70363c6025b628.bindTooltip(
+                `<div>
+                     Café Louvre (카페 루브르)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b6b73fe70f6630b88e70363c6025b628.setIcon(icon_b4d9d932b7084273f458db6f9e2a7bd5);
+            
+    
+            var marker_bd916f0dea3a153deb2cfbb21027fc53 = L.marker(
+                [50.0906, 14.4258],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_e3a9abe65c4fd61dfcb3cabb984e39b3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_bd916f0dea3a153deb2cfbb21027fc53.bindTooltip(
+                `<div>
+                     Lokál Dlouhááá (로칼/펍)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bd916f0dea3a153deb2cfbb21027fc53.setIcon(icon_e3a9abe65c4fd61dfcb3cabb984e39b3);
+            
+    
+            var marker_3198658e7749ceeeb75f224e801128f7 = L.marker(
+                [50.0789, 14.4172],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_05cd6dbe029d9b30e0a340581028e4f2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_3198658e7749ceeeb75f224e801128f7.bindTooltip(
+                `<div>
+                     U Fleků (우 플레쿠/양조장)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3198658e7749ceeeb75f224e801128f7.setIcon(icon_05cd6dbe029d9b30e0a340581028e4f2);
+            
+    
+            var marker_78dcd93d64b819114e176e136b63e838 = L.marker(
+                [50.0827, 14.4185],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_90295a72babf1f75ba908686de276b76 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_78dcd93d64b819114e176e136b63e838.bindTooltip(
+                `<div>
+                     U Medvídků (우 메드비드쿠)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_78dcd93d64b819114e176e136b63e838.setIcon(icon_90295a72babf1f75ba908686de276b76);
+            
+    
+            var marker_9c3e00eefe4957accef0905a8ae0d2d4 = L.marker(
+                [50.0865, 14.419],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_2242e25e782380f3af81bbb19539669f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_9c3e00eefe4957accef0905a8ae0d2d4.bindTooltip(
+                `<div>
+                     Prague Beer Museum
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9c3e00eefe4957accef0905a8ae0d2d4.setIcon(icon_2242e25e782380f3af81bbb19539669f);
+            
+    
+            var marker_d1056f52989c96d56687c3eb935d6670 = L.marker(
+                [50.0839, 14.415],
+                {
+}
+            ).addTo(map_f7951cbd02a56e6133369203dc4c0d53);
+        
+    
+            var icon_f3f63f5dcf982c67f11ce32f2d0e7548 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_d1056f52989c96d56687c3eb935d6670.bindTooltip(
+                `<div>
+                     Hemingway Bar (칵테일)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d1056f52989c96d56687c3eb935d6670.setIcon(icon_f3f63f5dcf982c67f11ce32f2d0e7548);
+            
+</script>
+</html>

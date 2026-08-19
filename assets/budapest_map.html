@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_04aca2bc4782bb81ca152c0e01469dae {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_04aca2bc4782bb81ca152c0e01469dae" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_04aca2bc4782bb81ca152c0e01469dae = L.map(
+                "map_04aca2bc4782bb81ca152c0e01469dae",
+                {
+                    center: [47.503, 19.05],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_259d4565678ec0140cfcf1a5f1749379 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_259d4565678ec0140cfcf1a5f1749379.addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var marker_2322596790d9722c1ef5270da2908824 = L.marker(
+                [47.4925, 19.0543],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_e07ba659cd20a35c126a7a2537859e3e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e3512beb769e8714cede756617b48be6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5cc541db5509b3a2966aa9b48c85959f = $(`<div id="html_5cc541db5509b3a2966aa9b48c85959f" style="width: 100.0%; height: 100.0%;">Párisi Udvar Hotel (숙소)</div>`)[0];
+                popup_e3512beb769e8714cede756617b48be6.setContent(html_5cc541db5509b3a2966aa9b48c85959f);
+            
+        
+
+        marker_2322596790d9722c1ef5270da2908824.bindPopup(popup_e3512beb769e8714cede756617b48be6)
+        ;
+
+        
+    
+    
+            marker_2322596790d9722c1ef5270da2908824.bindTooltip(
+                `<div>
+                     Párisi Udvar Hotel (숙소)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2322596790d9722c1ef5270da2908824.setIcon(icon_e07ba659cd20a35c126a7a2537859e3e);
+            
+    
+            var marker_b0c71dd2f25d471b8296a9b0c77210fc = L.marker(
+                [47.5022, 19.0348],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_affe9873e90d7fa4376391559a43222e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0c5a40db134081e95f729cec8309e575 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cfc5d388449e6f70f9adc6173d99e5fa = $(`<div id="html_cfc5d388449e6f70f9adc6173d99e5fa" style="width: 100.0%; height: 100.0%;">어부의 요새</div>`)[0];
+                popup_0c5a40db134081e95f729cec8309e575.setContent(html_cfc5d388449e6f70f9adc6173d99e5fa);
+            
+        
+
+        marker_b0c71dd2f25d471b8296a9b0c77210fc.bindPopup(popup_0c5a40db134081e95f729cec8309e575)
+        ;
+
+        
+    
+    
+            marker_b0c71dd2f25d471b8296a9b0c77210fc.bindTooltip(
+                `<div>
+                     어부의 요새
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b0c71dd2f25d471b8296a9b0c77210fc.setIcon(icon_affe9873e90d7fa4376391559a43222e);
+            
+    
+            var marker_bee9d6db28030555f926cc95ffa99caa = L.marker(
+                [47.4962, 19.0396],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_c14401404b23ab71ff4dcfa9910355a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_621e0ee4e173b7175fe95eb74ca56954 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a1f2aa0dc32e72dcc68e78dae2a0391a = $(`<div id="html_a1f2aa0dc32e72dcc68e78dae2a0391a" style="width: 100.0%; height: 100.0%;">부다 성</div>`)[0];
+                popup_621e0ee4e173b7175fe95eb74ca56954.setContent(html_a1f2aa0dc32e72dcc68e78dae2a0391a);
+            
+        
+
+        marker_bee9d6db28030555f926cc95ffa99caa.bindPopup(popup_621e0ee4e173b7175fe95eb74ca56954)
+        ;
+
+        
+    
+    
+            marker_bee9d6db28030555f926cc95ffa99caa.bindTooltip(
+                `<div>
+                     부다 성
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bee9d6db28030555f926cc95ffa99caa.setIcon(icon_c14401404b23ab71ff4dcfa9910355a7);
+            
+    
+            var marker_cf64b551ee9e729272656758698cf6ed = L.marker(
+                [47.5071, 19.0456],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_527f024e7deaefec07fbc99519d998fb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3f1d4034b2f0456e2dd037f9180272c2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d921540f7594cdb6eee5fade904fc947 = $(`<div id="html_d921540f7594cdb6eee5fade904fc947" style="width: 100.0%; height: 100.0%;">국회의사당</div>`)[0];
+                popup_3f1d4034b2f0456e2dd037f9180272c2.setContent(html_d921540f7594cdb6eee5fade904fc947);
+            
+        
+
+        marker_cf64b551ee9e729272656758698cf6ed.bindPopup(popup_3f1d4034b2f0456e2dd037f9180272c2)
+        ;
+
+        
+    
+    
+            marker_cf64b551ee9e729272656758698cf6ed.bindTooltip(
+                `<div>
+                     국회의사당
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cf64b551ee9e729272656758698cf6ed.setIcon(icon_527f024e7deaefec07fbc99519d998fb);
+            
+    
+            var marker_7bf50e325b45fd9d9998d707cdbf359b = L.marker(
+                [47.5186, 19.0823],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_aa888de22f77fc80a70e27909980e32e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cfb3319ed625d89744d90a119d60f5ec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9df8dd43df43e9d89270238361d4d37 = $(`<div id="html_d9df8dd43df43e9d89270238361d4d37" style="width: 100.0%; height: 100.0%;">세체니 온천</div>`)[0];
+                popup_cfb3319ed625d89744d90a119d60f5ec.setContent(html_d9df8dd43df43e9d89270238361d4d37);
+            
+        
+
+        marker_7bf50e325b45fd9d9998d707cdbf359b.bindPopup(popup_cfb3319ed625d89744d90a119d60f5ec)
+        ;
+
+        
+    
+    
+            marker_7bf50e325b45fd9d9998d707cdbf359b.bindTooltip(
+                `<div>
+                     세체니 온천
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7bf50e325b45fd9d9998d707cdbf359b.setIcon(icon_aa888de22f77fc80a70e27909980e32e);
+            
+    
+            var marker_fb0abdb3c60e73eee3059ef26bee2787 = L.marker(
+                [47.5034, 19.0632],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_615c6c34e59967142c78829d18c67a47 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_94424a465a57dcc0a20a083118ceed02 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec1c794d0e23848fd973c6bef307da80 = $(`<div id="html_ec1c794d0e23848fd973c6bef307da80" style="width: 100.0%; height: 100.0%;">Menza (멘자)</div>`)[0];
+                popup_94424a465a57dcc0a20a083118ceed02.setContent(html_ec1c794d0e23848fd973c6bef307da80);
+            
+        
+
+        marker_fb0abdb3c60e73eee3059ef26bee2787.bindPopup(popup_94424a465a57dcc0a20a083118ceed02)
+        ;
+
+        
+    
+    
+            marker_fb0abdb3c60e73eee3059ef26bee2787.bindTooltip(
+                `<div>
+                     Menza (멘자)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fb0abdb3c60e73eee3059ef26bee2787.setIcon(icon_615c6c34e59967142c78829d18c67a47);
+            
+    
+            var marker_c5de67377f576d707771057fe7b9c757 = L.marker(
+                [47.5152, 19.0494],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_c20e2d3ea05182c1a1114b9b81ec237f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_26f2bd8d2ff99f8aa43959df9b12d069 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bf0a70eb30f3f48d75912e9d0d0fe482 = $(`<div id="html_bf0a70eb30f3f48d75912e9d0d0fe482" style="width: 100.0%; height: 100.0%;">Kiskakukk (키슈카쿠크)</div>`)[0];
+                popup_26f2bd8d2ff99f8aa43959df9b12d069.setContent(html_bf0a70eb30f3f48d75912e9d0d0fe482);
+            
+        
+
+        marker_c5de67377f576d707771057fe7b9c757.bindPopup(popup_26f2bd8d2ff99f8aa43959df9b12d069)
+        ;
+
+        
+    
+    
+            marker_c5de67377f576d707771057fe7b9c757.bindTooltip(
+                `<div>
+                     Kiskakukk (키슈카쿠크)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c5de67377f576d707771057fe7b9c757.setIcon(icon_c20e2d3ea05182c1a1114b9b81ec237f);
+            
+    
+            var marker_75b843144964e487520dc7cb5753434d = L.marker(
+                [47.4975, 19.0553],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_dddc7bb4339021fba13b8b0d99e4149d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ca86d3f6f762f13dc66f0191729d86d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c0d7ef9cf9ae7c10378f4de09d38c651 = $(`<div id="html_c0d7ef9cf9ae7c10378f4de09d38c651" style="width: 100.0%; height: 100.0%;">VakVarjú (까마귀 식당)</div>`)[0];
+                popup_5ca86d3f6f762f13dc66f0191729d86d.setContent(html_c0d7ef9cf9ae7c10378f4de09d38c651);
+            
+        
+
+        marker_75b843144964e487520dc7cb5753434d.bindPopup(popup_5ca86d3f6f762f13dc66f0191729d86d)
+        ;
+
+        
+    
+    
+            marker_75b843144964e487520dc7cb5753434d.bindTooltip(
+                `<div>
+                     VakVarjú (까마귀 식당)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_75b843144964e487520dc7cb5753434d.setIcon(icon_dddc7bb4339021fba13b8b0d99e4149d);
+            
+    
+            var marker_271ce74dbf898df43de1151c2bcc150a = L.marker(
+                [47.4939, 19.056],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_55cfb535530624e14f36c2a91ade612d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3bb27b72e6c7c09e0cea744064529411 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f8ddf115411233903997ce0c1e549366 = $(`<div id="html_f8ddf115411233903997ce0c1e549366" style="width: 100.0%; height: 100.0%;">Belvárosi Disznótoros</div>`)[0];
+                popup_3bb27b72e6c7c09e0cea744064529411.setContent(html_f8ddf115411233903997ce0c1e549366);
+            
+        
+
+        marker_271ce74dbf898df43de1151c2bcc150a.bindPopup(popup_3bb27b72e6c7c09e0cea744064529411)
+        ;
+
+        
+    
+    
+            marker_271ce74dbf898df43de1151c2bcc150a.bindTooltip(
+                `<div>
+                     Belvárosi Disznótoros
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_271ce74dbf898df43de1151c2bcc150a.setIcon(icon_55cfb535530624e14f36c2a91ade612d);
+            
+    
+            var marker_2abe029902d19f468d27b01c1e767c76 = L.marker(
+                [47.5173, 19.0772],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_c7e8e63dff3201eba58b7358d3b80fdc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0aa6c56acaac754d753d52531f642b16 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_569aad631c06b289bc2d57670a96d80f = $(`<div id="html_569aad631c06b289bc2d57670a96d80f" style="width: 100.0%; height: 100.0%;">Gundel (군델)</div>`)[0];
+                popup_0aa6c56acaac754d753d52531f642b16.setContent(html_569aad631c06b289bc2d57670a96d80f);
+            
+        
+
+        marker_2abe029902d19f468d27b01c1e767c76.bindPopup(popup_0aa6c56acaac754d753d52531f642b16)
+        ;
+
+        
+    
+    
+            marker_2abe029902d19f468d27b01c1e767c76.bindTooltip(
+                `<div>
+                     Gundel (군델)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2abe029902d19f468d27b01c1e767c76.setIcon(icon_c7e8e63dff3201eba58b7358d3b80fdc);
+            
+    
+            var marker_34a07a67514cf177d75474197086528e = L.marker(
+                [47.5015, 19.0326],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_c89c6b532dbeae5160974c272350dc22 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_73de81cc99908bcc6bd55db66391c153 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_db8380dcd98573eeb6e2a066576b4d0f = $(`<div id="html_db8380dcd98573eeb6e2a066576b4d0f" style="width: 100.0%; height: 100.0%;">Pest-Buda Bistro</div>`)[0];
+                popup_73de81cc99908bcc6bd55db66391c153.setContent(html_db8380dcd98573eeb6e2a066576b4d0f);
+            
+        
+
+        marker_34a07a67514cf177d75474197086528e.bindPopup(popup_73de81cc99908bcc6bd55db66391c153)
+        ;
+
+        
+    
+    
+            marker_34a07a67514cf177d75474197086528e.bindTooltip(
+                `<div>
+                     Pest-Buda Bistro
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_34a07a67514cf177d75474197086528e.setIcon(icon_c89c6b532dbeae5160974c272350dc22);
+            
+    
+            var marker_197bd17ec4831a35b08cc34dc72c519d = L.marker(
+                [47.5022, 19.035],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_6e2cf5b7c1ae5a0e28bd2782b42136c3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_09791d12f1b448d842320cca2c9f2147 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_df774ccb72b977562bad131e761ae0e2 = $(`<div id="html_df774ccb72b977562bad131e761ae0e2" style="width: 100.0%; height: 100.0%;">Halászbástya</div>`)[0];
+                popup_09791d12f1b448d842320cca2c9f2147.setContent(html_df774ccb72b977562bad131e761ae0e2);
+            
+        
+
+        marker_197bd17ec4831a35b08cc34dc72c519d.bindPopup(popup_09791d12f1b448d842320cca2c9f2147)
+        ;
+
+        
+    
+    
+            marker_197bd17ec4831a35b08cc34dc72c519d.bindTooltip(
+                `<div>
+                     Halászbástya
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_197bd17ec4831a35b08cc34dc72c519d.setIcon(icon_6e2cf5b7c1ae5a0e28bd2782b42136c3);
+            
+    
+            var marker_8ca7848d9187a379ef269141dab19c94 = L.marker(
+                [47.5056, 19.039],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_97c4ce27f59b671f336bdeb5fed59902 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f376203241913d201d21fd7b118cf22 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1a69a3572f3b8c6f118cc53b399a2e3c = $(`<div id="html_1a69a3572f3b8c6f118cc53b399a2e3c" style="width: 100.0%; height: 100.0%;">Angelika</div>`)[0];
+                popup_2f376203241913d201d21fd7b118cf22.setContent(html_1a69a3572f3b8c6f118cc53b399a2e3c);
+            
+        
+
+        marker_8ca7848d9187a379ef269141dab19c94.bindPopup(popup_2f376203241913d201d21fd7b118cf22)
+        ;
+
+        
+    
+    
+            marker_8ca7848d9187a379ef269141dab19c94.bindTooltip(
+                `<div>
+                     Angelika
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8ca7848d9187a379ef269141dab19c94.setIcon(icon_97c4ce27f59b671f336bdeb5fed59902);
+            
+    
+            var marker_abbfce99d4cf666dbb32945f4641460c = L.marker(
+                [47.4986, 19.0399],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_3c8d1d3388252904d17eb63480d26723 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e2e35cab51cef3b3ad185df24efe2998 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d02d90fda6f8869f7a5d729d31b94361 = $(`<div id="html_d02d90fda6f8869f7a5d729d31b94361" style="width: 100.0%; height: 100.0%;">Pater Marcus</div>`)[0];
+                popup_e2e35cab51cef3b3ad185df24efe2998.setContent(html_d02d90fda6f8869f7a5d729d31b94361);
+            
+        
+
+        marker_abbfce99d4cf666dbb32945f4641460c.bindPopup(popup_e2e35cab51cef3b3ad185df24efe2998)
+        ;
+
+        
+    
+    
+            marker_abbfce99d4cf666dbb32945f4641460c.bindTooltip(
+                `<div>
+                     Pater Marcus
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_abbfce99d4cf666dbb32945f4641460c.setIcon(icon_3c8d1d3388252904d17eb63480d26723);
+            
+    
+            var marker_37f73200ad505f488e3c2e27317dc755 = L.marker(
+                [47.4984, 19.0706],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_2467d4a754641e09be8fd7b8ee467703 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c558198f787db9de8eef7e5e40144998 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2a4b814a501eb594c4d24a147fa6573b = $(`<div id="html_2a4b814a501eb594c4d24a147fa6573b" style="width: 100.0%; height: 100.0%;">New York Cafe</div>`)[0];
+                popup_c558198f787db9de8eef7e5e40144998.setContent(html_2a4b814a501eb594c4d24a147fa6573b);
+            
+        
+
+        marker_37f73200ad505f488e3c2e27317dc755.bindPopup(popup_c558198f787db9de8eef7e5e40144998)
+        ;
+
+        
+    
+    
+            marker_37f73200ad505f488e3c2e27317dc755.bindTooltip(
+                `<div>
+                     New York Cafe
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_37f73200ad505f488e3c2e27317dc755.setIcon(icon_2467d4a754641e09be8fd7b8ee467703);
+            
+    
+            var marker_59df4d1106ee2b6019370172ab9dd3fa = L.marker(
+                [47.5005, 19.0537],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_4ae8cd7792137fb72b0877f55f3f3308 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f2e52e3aa4582e82a735b532689f083e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d5eb44e1cfb5a015fc49efbe7b0cdbce = $(`<div id="html_d5eb44e1cfb5a015fc49efbe7b0cdbce" style="width: 100.0%; height: 100.0%;">Gelarto Rosa</div>`)[0];
+                popup_f2e52e3aa4582e82a735b532689f083e.setContent(html_d5eb44e1cfb5a015fc49efbe7b0cdbce);
+            
+        
+
+        marker_59df4d1106ee2b6019370172ab9dd3fa.bindPopup(popup_f2e52e3aa4582e82a735b532689f083e)
+        ;
+
+        
+    
+    
+            marker_59df4d1106ee2b6019370172ab9dd3fa.bindTooltip(
+                `<div>
+                     Gelarto Rosa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_59df4d1106ee2b6019370172ab9dd3fa.setIcon(icon_4ae8cd7792137fb72b0877f55f3f3308);
+            
+    
+            var marker_5481531150855cbff57ad7feab285669 = L.marker(
+                [47.5017, 19.0598],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_8c6b7f6365ea363871cdd2eb15b10888 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_80890ab969ab9e71dce35926db3b1909 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d08c6ac8cfa20835a8cb3185727f3103 = $(`<div id="html_d08c6ac8cfa20835a8cb3185727f3103" style="width: 100.0%; height: 100.0%;">Kadarka Wine Bar</div>`)[0];
+                popup_80890ab969ab9e71dce35926db3b1909.setContent(html_d08c6ac8cfa20835a8cb3185727f3103);
+            
+        
+
+        marker_5481531150855cbff57ad7feab285669.bindPopup(popup_80890ab969ab9e71dce35926db3b1909)
+        ;
+
+        
+    
+    
+            marker_5481531150855cbff57ad7feab285669.bindTooltip(
+                `<div>
+                     Kadarka Wine Bar
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5481531150855cbff57ad7feab285669.setIcon(icon_8c6b7f6365ea363871cdd2eb15b10888);
+            
+    
+            var marker_d65cda7e81d1d8d6e6084b12ca6face3 = L.marker(
+                [47.4851, 19.0734],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_45a8c1f60e81d159ba5a94fc643b9ee3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d3ece5faa3a4b8ae540f61057d01c9a6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ebbdb62fc9f80dbb081f37a1c824bde = $(`<div id="html_5ebbdb62fc9f80dbb081f37a1c824bde" style="width: 100.0%; height: 100.0%;">Élesztőház (수제맥주)</div>`)[0];
+                popup_d3ece5faa3a4b8ae540f61057d01c9a6.setContent(html_5ebbdb62fc9f80dbb081f37a1c824bde);
+            
+        
+
+        marker_d65cda7e81d1d8d6e6084b12ca6face3.bindPopup(popup_d3ece5faa3a4b8ae540f61057d01c9a6)
+        ;
+
+        
+    
+    
+            marker_d65cda7e81d1d8d6e6084b12ca6face3.bindTooltip(
+                `<div>
+                     Élesztőház (수제맥주)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d65cda7e81d1d8d6e6084b12ca6face3.setIcon(icon_45a8c1f60e81d159ba5a94fc643b9ee3);
+            
+    
+            var marker_c7d9427a210ab3679d91d3fcab0ea4b5 = L.marker(
+                [47.4971, 19.0628],
+                {
+}
+            ).addTo(map_04aca2bc4782bb81ca152c0e01469dae);
+        
+    
+            var icon_f1c703af7baab48c50552fca0193e8fe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_70b88bea34d8ebb46401b58e39e1a024 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_573147a7b532025458160d77a95d9704 = $(`<div id="html_573147a7b532025458160d77a95d9704" style="width: 100.0%; height: 100.0%;">Szimpla Kert (루인바)</div>`)[0];
+                popup_70b88bea34d8ebb46401b58e39e1a024.setContent(html_573147a7b532025458160d77a95d9704);
+            
+        
+
+        marker_c7d9427a210ab3679d91d3fcab0ea4b5.bindPopup(popup_70b88bea34d8ebb46401b58e39e1a024)
+        ;
+
+        
+    
+    
+            marker_c7d9427a210ab3679d91d3fcab0ea4b5.bindTooltip(
+                `<div>
+                     Szimpla Kert (루인바)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c7d9427a210ab3679d91d3fcab0ea4b5.setIcon(icon_f1c703af7baab48c50552fca0193e8fe);
+            
+</script>
+</html>

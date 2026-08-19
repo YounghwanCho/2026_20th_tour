@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7d4f8ab71653e4764feceb1d88e40411 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_7d4f8ab71653e4764feceb1d88e40411" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7d4f8ab71653e4764feceb1d88e40411 = L.map(
+                "map_7d4f8ab71653e4764feceb1d88e40411",
+                {
+                    center: [48.205, 16.368],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bc622d88f0c266c29879bcc58550606e = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_bc622d88f0c266c29879bcc58550606e.addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var marker_143faab82644c64a7c965391f54d8e8b = L.marker(
+                [48.2107, 16.3683],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_f44e9dff4b6ce2b396cb042b51c5f0e6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_143faab82644c64a7c965391f54d8e8b.bindTooltip(
+                `<div>
+                     Park Hyatt Vienna (숙소)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_143faab82644c64a7c965391f54d8e8b.setIcon(icon_f44e9dff4b6ce2b396cb042b51c5f0e6);
+            
+    
+            var marker_852f1c411c683a5f5642f42ad873e935 = L.marker(
+                [48.2085, 16.3731],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_6bfea6138a152adf7ef574e79ddf771a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_852f1c411c683a5f5642f42ad873e935.bindTooltip(
+                `<div>
+                     슈테판 대성당
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_852f1c411c683a5f5642f42ad873e935.setIcon(icon_6bfea6138a152adf7ef574e79ddf771a);
+            
+    
+            var marker_890077136f9333eda5d2d25f8f4a7783 = L.marker(
+                [48.1848, 16.3122],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_46012aaff57ea9077dc91b2e231d22b1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_890077136f9333eda5d2d25f8f4a7783.bindTooltip(
+                `<div>
+                     쇤브룬 궁전
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_890077136f9333eda5d2d25f8f4a7783.setIcon(icon_46012aaff57ea9077dc91b2e231d22b1);
+            
+    
+            var marker_97bdfd7ec533bf3201b224982f547dda = L.marker(
+                [48.1915, 16.3809],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_bfc9da4f3789149712c2bb05c76ae0fa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_97bdfd7ec533bf3201b224982f547dda.bindTooltip(
+                `<div>
+                     벨베데레 궁전
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_97bdfd7ec533bf3201b224982f547dda.setIcon(icon_bfc9da4f3789149712c2bb05c76ae0fa);
+            
+    
+            var marker_b7d69977dee59ab0a7c009515674605a = L.marker(
+                [48.2065, 16.3653],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_486266b0e30eb484b237fc90aadf7a16 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_b7d69977dee59ab0a7c009515674605a.bindTooltip(
+                `<div>
+                     호프부르크 왕궁
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b7d69977dee59ab0a7c009515674605a.setIcon(icon_486266b0e30eb484b237fc90aadf7a16);
+            
+    
+            var marker_eccebcdb2467dbc6121e9942290294e8 = L.marker(
+                [48.2038, 16.3618],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_b25829cbbed34b14b7cb748ce5b8e7ff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_eccebcdb2467dbc6121e9942290294e8.bindTooltip(
+                `<div>
+                     미술사 박물관
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_eccebcdb2467dbc6121e9942290294e8.setIcon(icon_b25829cbbed34b14b7cb748ce5b8e7ff);
+            
+    
+            var marker_2648a242b54be0472e7f20d77c537de6 = L.marker(
+                [48.203, 16.369],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_017973483f57df79ca39df26c1d539d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_2648a242b54be0472e7f20d77c537de6.bindTooltip(
+                `<div>
+                     비엔나 국립 오페라 극장
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2648a242b54be0472e7f20d77c537de6.setIcon(icon_017973483f57df79ca39df26c1d539d3);
+            
+    
+            var marker_172b4f8daa2d02ed9d2d02d7734e9c63 = L.marker(
+                [48.2096, 16.3748],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_7bedad9e8fd580ed511cb7a86b626499 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_172b4f8daa2d02ed9d2d02d7734e9c63.bindTooltip(
+                `<div>
+                     Figlmüller (피그뮬러)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_172b4f8daa2d02ed9d2d02d7734e9c63.setIcon(icon_7bedad9e8fd580ed511cb7a86b626499);
+            
+    
+            var marker_f70fcccd17c10e88e1a3de5ef6a5b369 = L.marker(
+                [48.2084, 16.3789],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_d4bb5a96d5ceff77216a856dca010112 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_f70fcccd17c10e88e1a3de5ef6a5b369.bindTooltip(
+                `<div>
+                     Plachutta (플라후타)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f70fcccd17c10e88e1a3de5ef6a5b369.setIcon(icon_d4bb5a96d5ceff77216a856dca010112);
+            
+    
+            var marker_752dedce14f8304fa3e04390727c20f9 = L.marker(
+                [48.2052, 16.3747],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_db84213f075448c390317a1e3cb7509d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_752dedce14f8304fa3e04390727c20f9.bindTooltip(
+                `<div>
+                     Ribs of Vienna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_752dedce14f8304fa3e04390727c20f9.setIcon(icon_db84213f075448c390317a1e3cb7509d);
+            
+    
+            var marker_a168059600674c30e1d2ed15b6aee04f = L.marker(
+                [48.2041, 16.3686],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_850a41926c76021a3bec716e2b7f72dc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_a168059600674c30e1d2ed15b6aee04f.bindTooltip(
+                `<div>
+                     Bitzinger (비칭어 소시지)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a168059600674c30e1d2ed15b6aee04f.setIcon(icon_850a41926c76021a3bec716e2b7f72dc);
+            
+    
+            var marker_e246824ec776272d7a44987498412722 = L.marker(
+                [48.2104, 16.3654],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_83d47b78471268d5ae2e9cb76dfaa061 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_e246824ec776272d7a44987498412722.bindTooltip(
+                `<div>
+                     Café Central (카페 센트랄)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e246824ec776272d7a44987498412722.setIcon(icon_83d47b78471268d5ae2e9cb76dfaa061);
+            
+    
+            var marker_21029de36aca0b6120bcefdbec72cb48 = L.marker(
+                [48.2038, 16.3695],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_6d92d7dc49fe732bee768e04c4705bbd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "coffee",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_21029de36aca0b6120bcefdbec72cb48.bindTooltip(
+                `<div>
+                     Café Sacher (카페 자허)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_21029de36aca0b6120bcefdbec72cb48.setIcon(icon_6d92d7dc49fe732bee768e04c4705bbd);
+            
+    
+            var marker_249b43015f028b80d352fe22498cb17e = L.marker(
+                [48.2037, 16.373],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_5c6413dc9d98eaa9c2d12c0d55c6f83a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_249b43015f028b80d352fe22498cb17e.bindTooltip(
+                `<div>
+                     1516 Brewing Co. (수제맥주)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_249b43015f028b80d352fe22498cb17e.setIcon(icon_5c6413dc9d98eaa9c2d12c0d55c6f83a);
+            
+    
+            var marker_3b8cdb00579465fdbf03a6b38352adcb = L.marker(
+                [48.2562, 16.3533],
+                {
+}
+            ).addTo(map_7d4f8ab71653e4764feceb1d88e40411);
+        
+    
+            var icon_51a418a35c7efcea1972096477920f80 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_3b8cdb00579465fdbf03a6b38352adcb.bindTooltip(
+                `<div>
+                     Mayer am Pfarrplatz (호이리거/와인)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3b8cdb00579465fdbf03a6b38352adcb.setIcon(icon_51a418a35c7efcea1972096477920f80);
+            
+</script>
+</html>
