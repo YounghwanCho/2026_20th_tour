@@ -41,7 +41,14 @@
   * 🍽️ **추천 식당**: [페스트-부다 비스트로 (Pest-Buda Bistro)](https://www.google.com/maps/search/?api=1&query=Pest-Buda+Bistro+Budapest) (클래식한 헝가리 가정식과 굴라시), [할라쉬바슈탸 레스토랑 (Halászbástya Étterem)](https://www.google.com/maps/search/?api=1&query=Halászbástya+Restaurant+Budapest) (어부의 요새 내에 위치하여 다뉴브 강 뷰가 일품)
   * ☕ **추천 카페**: [레테슈바르 (Budavári Rétesvár)](https://www.google.com/maps/search/?api=1&query=Budavári+Rétesvár+Budapest) (부다 성 골목에 위치한 헝가리 전통 파이 '슈트루델(Rétes)' 전문 디저트 맛집)
 * **14:00 ~ 17:00**: **부다 성(왕궁)** 외부 산책 및 국립 미술관 관람. 왕궁 언덕에서 내려다보는 페스트 지구의 파노라마 뷰 감상.
-* **17:00 ~ 20:00**: 푸니쿨라를 타고 내려와 바차니 광장(Batthyány tér)으로 이동. 도나우 강 건너편에서 **국회의사당**에 불이 켜지는 압도적인 장관 감상 후 저녁 식사.<br><img src="./assets/hungarian_parliament.jpg" height="120" style="border-radius:8px; margin-top:5px;">
+* **17:00 ~ 20:00**: 푸니쿨라를 타고 내려와 바차니 광장(Batthyány tér)으로 이동. 도나우 강 건너편에서 **국회의사당**에 불이 켜지는 압도적인 장관 감상 후 저녁 식사.
+  * 🚋 **이동 방법 (부다 성 푸니쿨라 ➡️ 바차니 광장)**:
+    * 푸니쿨라를 타고 클라크 아담 광장(Clark Ádám tér)으로 내려온 뒤, 강변을 따라 도보로 걷거나 19번/41번 트램을 타고 바차니 광장으로 이동합니다.
+    * <a href="https://www.google.com/maps/dir/?api=1&origin=Buda+Castle+Funicular&destination=Batthyány+tér,+Budapest&travelmode=transit" target="_blank"><img src="./assets/budapest_day2_night_map_real.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="부다 성 푸니쿨라에서 바차니 광장 이동 경로 구글맵 캡처"></a>
+  * 🍽️ **추천 식당 (바차니 광장 주변)**:
+    * [안젤리카 레스토랑 (Angelika Étterem)](https://www.google.com/maps/search/?api=1&query=Angelika+Étterem+Budapest): 바차니 광장에 위치해 있으며, 테라스에서 국회의사당 야경을 감상하며 우아한 저녁 식사를 즐기기 좋은 곳.
+    * [파터 마르쿠스 (Pater Marcus Apátsági Pub)](https://www.google.com/maps/search/?api=1&query=Pater+Marcus+Budapest): 강변을 따라 도보나 트램으로 조금 이동하면 나오는 중세풍 벨기에 수도원 컨셉의 펍. 100여 종의 맥주와 훌륭한 식사 메뉴 제공.
+  * <img src="./assets/hungarian_parliament.jpg" height="120" style="border-radius:8px; margin-top:5px;">
 * 💡 **Tip**: 국회의사당 야경 사진은 바차니 광장 쪽 강변 벤치에 앉아서 찍는 것이 정석입니다. 강바람이 찰 수 있으니 가벼운 겉옷을 챙기세요.
 
 ### 📍 9/5 (토) 온천과 페스트 지구
