@@ -48,8 +48,13 @@
   * 🚶‍♂️🚡 **이동 방법 (구시가지 ➡️ 호엔잘츠부르크 성)**:
     * 카피텔 광장(Kapitelplatz)에서 페스퉁스가세(Festungsgasse) 길을 따라 도보 이동 ➡️ **푸니쿨라(Festungsbahn)** 탑승장 도착 ➡️ 1분 만에 성벽 위로 수직 상승.
     * <img src="./assets/salzburg_oldtown_to_fortress_map.jpg" width="100%" style="border-radius:8px; margin-top:5px; margin-bottom:5px; max-width:500px;" alt="구시가지에서 호엔잘츠부르크 성 이동 경로 지도">
-* **17:00 ~ 20:00**: 잘츠부르크 대성당과 레지덴츠 광장 산책 후 여유로운 저녁 식사.
-  * 🍽️ **추천 식당**: [장크트 페터 스티프츠쿨리나리움(St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium) (유럽에서 가장 오래된 레스토랑. 모차르트 디너쇼를 보며 우아한 식사 가능)
+* **17:00 ~ 19:00**: 잘츠부르크 대성당과 레지덴츠 광장 산책. (콘서트 홀 입장이 19:00에 마감되므로 늦지 않게 이동)
+* **19:00 ~ 22:00**: **장크트 페터 스티프츠쿨리나리움 (St. Peter Stiftskulinarium) 저녁 식사 및 콘서트**
+  * 🍽️ 모차르트 디너 콘서트 예약 완료 (19:30 시작, 19:00 입장 마감)
+  * <details>
+      <summary style="cursor:pointer; color:#0366d6;"><b>⬇️ 예약 바우처 확인하기 (클릭하여 펼치기)</b></summary>
+      <img src="./assets/st_peter_booking.png" width="100%" style="border-radius:8px; margin-top:5px; max-width:700px;" alt="모차르트 디너 콘서트 예약 바우처">
+    </details>
 * 💡 **Tip**: 호엔잘츠부르크 성의 야외 카페테리아에서 커피 한 잔을 마시며 내려다보는 시내 전경이 예술입니다.
 
 ### 📍 9/11 (금) 프라하로 이동 전 오전
