@@ -42,6 +42,16 @@
 
 ---
 
+
+## 🛒 호텔 주변 마트 & 쇼핑 (지도 내 초록색 번호)
+
+* **[[11] SPAR (스파)](https://www.google.com/maps/search/?api=1&query=SPAR+Sinnhubstraße+Salzburg)**
+  * **특징**: 숙소(빌라 베르데) 바로 길 건너편 도보 2분 거리에 위치한 마트. 물, 맥주, 간단한 간식거리를 사서 숙소 정원에서 휴식하며 즐기기 좋습니다.
+* **[[12] BILLA (빌라)](https://www.google.com/maps/search/?api=1&query=BILLA+Neutorstraße+Salzburg)**
+  * **특징**: 숙소에서 구시가지로 걸어가거나 버스를 타고 나가는 길목(Neutorstraße)에 위치한 마트로, 이동 중에 들르기 좋습니다.
+
+---
+
 ## 🍺 수도원 맥주와 양조장 경험 (Bars & Drinks)
 
 * **[[8] 아우구스티너 브로이 (Augustiner Bräustübl)](https://www.google.com/maps/search/?api=1&query=Augustiner+Bräustübl+Salzburg)**

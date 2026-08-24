@@ -74,6 +74,36 @@
 
 ---
 
+
+## 🛒 호텔 주변 마트 & 쇼핑 (지도 내 초록색 번호)
+
+* **[[18] ALDI (알디)](https://www.google.com/maps/search/?api=1&query=ALDI+Kossuth+Lajos+Budapest)**
+  * **특징**: 호텔(파리시 우드버르)에서 도보 2~3분 거리에 위치한 대형 할인 마트. 저렴한 가격으로 생수, 간식, 신선 식품 등을 구매하기 좋습니다.
+* **[[19] SPAR City (스파 시티)](https://www.google.com/maps/search/?api=1&query=SPAR+City+Ferenciek+tere)**
+  * **특징**: 호텔 바로 근처(페렌치에크 광장)에 있는 마트로 접근성이 매우 뛰어납니다. 토카이 와인 등 간단한 기념품도 쉽게 구할 수 있습니다.
+
+---
+
+
+## 🛒 호텔 주변 마트 & 쇼핑 (지도 내 초록색 번호)
+
+* **[[13] BILLA Corso (빌라 코르소)](https://www.google.com/maps/search/?api=1&query=BILLA+Corso+Herrnhuterhaus)**
+  * **특징**: 파크 하얏트 비엔나에서 도보 5분 거리에 있는 고급형 대형 마트. 와인, 치즈, 샐러드 등 퀄리티 높은 식료품이 많아 호텔에서 야식을 즐기기에 완벽합니다.
+* **[[14] 율리어스 마인들 (Julius Meinl am Graben)](https://www.google.com/maps/search/?api=1&query=Julius+Meinl+am+Graben)**
+  * **특징**: 호텔 근처 그라벤(Graben) 거리에 위치한 160년 전통의 프리미엄 식료품점. 최고급 커피 원두, 초콜릿 등 기념품 쇼핑의 성지입니다.
+
+---
+
+
+## 🛒 호텔 주변 마트 & 쇼핑 (지도 내 초록색 번호)
+
+* **[[15] 팔라디움 (Palladium)](https://www.google.com/maps/search/?api=1&query=Palladium+Prague)**
+  * **특징**: 안다즈 프라하 호텔에서 도보 4~5분 거리에 있는 프라하 최대 규모의 현대식 쇼핑몰. 의류, 잡화, 화장품(마누팍투라 포함) 매장이 빼곡히 입점해 있습니다.
+* **[[16] BILLA (빌라 - 팔라디움 근처)](https://www.google.com/maps/search/?api=1&query=BILLA+V+Celnici+Prague)**
+  * **특징**: 호텔 바로 근처에 위치한 대형 마트. 체코 전통 과자나 베체로브카(술), 코젤 맥주 등을 매우 저렴하게 구입할 수 있습니다.
+
+---
+
 ## 🛍️ 필수 쇼핑 리스트
 1. **토카이 아수 와인 (Tokaji Aszú)**: 헝가리 쇼핑 1순위. 귀부병에 걸린 포도로 만든 천연 달콤한 와인으로, 당도에 따라 3~6 Puttonyos로 나뉩니다. 숫자가 높을수록 달고 비싸며, 보통 5~6 Puttonyos를 선물용으로 추천합니다.
 2. **이노레우마 크림 (Inno Rheuma)**: 일명 '악마의 발톱 크림'. 관절염과 근육통에 탁월한 효능을 보여 부모님 효도 선물로 인기가 많습니다. (약국이나 dm 마트에서 구매 가능)
