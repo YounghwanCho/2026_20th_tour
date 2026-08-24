@@ -51,8 +51,10 @@
 * **17:00 ~ 19:00**: 잘츠부르크 대성당과 레지덴츠 광장 산책. (콘서트 홀 입장이 19:00에 마감되므로 늦지 않게 이동)
 * **19:00 ~ 22:00**: **장크트 페터 스티프츠쿨리나리움 (St. Peter Stiftskulinarium) 저녁 식사 및 콘서트**
   * 🍽️ 모차르트 디너 콘서트 예약 완료 (19:30 시작, 19:00 입장 마감)
+  * 📍 **위치:** [구글 맵에서 보기 (St. Peter Stiftskulinarium)](https://www.google.com/maps/search/?api=1&query=St.+Peter+Stiftskulinarium)
+  * 📄 **원본 바우처 PDF:** [구글 드라이브 폴더 열람하기](https://drive.google.com/drive/folders/1y18-w1nkm0G7OTZpBKupfmfVv35vCFm6)
   * <details>
-      <summary style="cursor:pointer; color:#0366d6;"><b>⬇️ 예약 바우처 확인하기 (클릭하여 펼치기)</b></summary>
+      <summary style="cursor:pointer; color:#0366d6;"><b>⬇️ 예약 바우처 캡처본 요약 (클릭하여 펼치기)</b></summary>
       <img src="./assets/st_peter_booking.png" width="100%" style="border-radius:8px; margin-top:5px; max-width:700px;" alt="모차르트 디너 콘서트 예약 바우처">
     </details>
 * 💡 **Tip**: 호엔잘츠부르크 성의 야외 카페테리아에서 커피 한 잔을 마시며 내려다보는 시내 전경이 예술입니다.
